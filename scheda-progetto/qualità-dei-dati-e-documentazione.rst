@@ -14,7 +14,7 @@ responsabilità nella compilazione.
 .. _section-6:
 
 7.4.1. Analisi della qualità dei dati ⓘ ⓓ
------------------------------------------
+******************************************
 
 Secondo la norma ISO 9000:2015, la qualità è la totalità degli elementi
 e delle caratteristiche di un prodotto o servizio che concorrono alla
@@ -43,7 +43,7 @@ caso di tipologie di dati multiple, queste informazioni devono essere
 riportate per ogni specifica tipologia.
 
 7.4.2. Bonifica dei dati ⓘ
---------------------------
+***************************
 
 Generalmente l’analisi della qualità del dato può richiedere una fase di
 bonifica: i dati all’interno dei sistemi informativi o degli archivi di
@@ -82,7 +82,7 @@ In caso di tipologie di dati multiple, queste informazioni devono essere
 riportate per ogni specifica tipologia.
 
 7.4.3. Nomenclatura degli oggetti digitali ⓘ ⓒ
-----------------------------------------------
+***********************************************
 
 Le convenzioni per nominare i file sono importanti per descrivere ciò
 che contengono e come si relazionano ad altri file. Lo sviluppo di una
@@ -106,6 +106,4 @@ identificativi presenti nel codice oggetto (es. SBN). In caso di
 metodologie di nomenclatura multiple, sarà opportuno riportare queste
 informazioni per ogni specifica metodologia adottata.
 
-.. [1]
-
-   https://docs.italia.it/italia/daf/lg-patrimonio-pubblico/it/stabile/aspettiorg.html#qualita-dei-dati
+.. [1] `<https://docs.italia.it/italia/daf/lg-patrimonio-pubblico/it/stabile/aspettiorg.html#qualita-dei-dati>`_

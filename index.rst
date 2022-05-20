@@ -12,11 +12,13 @@ Linee guida per la redazione del piano di gestione dei dati
   :maxdepth: 3
   :caption: Indice dei contenuti
 
+  crediti.rst
   introduzione.rst
   cosè-il-dmp-e-a-che-cosa-serve.rst
   il-dmp-nel-piano-nazionale-di-digitalizzazione.rst
   data-governance-interna.rst
   attività-preliminari.rst
+  struttura-dmp.rst
   scheda-istituto.rst
   scheda-progetto.rst
   strumenti-per-la-compilazione-del-dmp.rst

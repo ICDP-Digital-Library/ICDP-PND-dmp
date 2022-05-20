@@ -19,10 +19,10 @@ Di fianco al nome di ogni campo è indicata la responsabilità nella
 compilazione.
 
 7.3.1. Livello di metadatazione ⓘ
----------------------------------
+**********************************
 
 Le linee guida AgID prevedono quattro possibili livelli di
-metadatazione [1]_, come descritto nella Fig. 1. Si consiglia di
+metadatazione [8]_, come descritto nella Fig. 1. Si consiglia di
 adottare il livello più alto che è tecnicamente possibile implementare.
 Il primo livello non include metadati, ed è quindi fortemente
 sconsigliato. Il secondo e il terzo livello hanno esclusivamente
@@ -31,11 +31,10 @@ associati internamente al dato stesso.
 
 |image0|
 
-*Fig. 1 – Livelli di metadatazione
-(fonte:*\ `https://docs.italia.it/italia/daf/lg-patrimonio-pubblico/it/stabile/_images/Metadati.png <https://docs.italia.it/italia/daf/lg-patrimonio-pubblico/it/stabile/_images/Metadati.png)>`__\ *)*
+*Fig. 1 – Livelli di metadatazione*
 
 7.3.2. Metodologie per la metadatazione ⓘ
------------------------------------------
+******************************************
 
 Nel DMP sono descritte le metodologie di metadatazione, specificando in
 che modo vengono prodotti i metadati e chi ne è responsabile. Per
@@ -44,7 +43,7 @@ per la digitalizzazione del patrimonio culturale* e ai regolamenti o
 prassi in vigore nella comunità scientifica di riferimento.
 
 7.3.3. Standard di metadatazione ⓘ ⓒ
-------------------------------------
+*********************************
 
 Il risultato delle precedenti tappe del modello operativo si traduce
 nella produzione di metadati che certificano le caratteristiche del
@@ -62,8 +61,8 @@ standard METS (*Metadata Encoding and Transmission Standard*), che
 codifica i metadati descrittivi, amministrativi e strutturali
 riguardanti le risorse digitali.
 
-.. [1]
+.. [8] `<https://docs.italia.it/italia/daf/lg-patrimonio-pubblico/it/stabile/_images/Metadati.png <https://docs.italia.it/italia/daf/lg-patrimonio-pubblico/it/stabile/_images/Metadati.png)>`_
 
-.. |image0| image:: ./media/image3.png
+.. |image0| image:: ../media/image3.png
    :width: 5in
    :height: 2.44792in

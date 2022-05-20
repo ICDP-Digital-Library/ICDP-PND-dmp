@@ -1,11 +1,11 @@
 7.1. Informazioni amministrative
-================================
+********************************
 
 La prima sezione della scheda progetto contiene le informazioni generali
 e amministrative relative al progetto, che devono essere definite e rese
 accessibili per garantire la corretta gestione della banca dati.
 Definisce inoltre la *data governance* del progetto, attribuendo in modo
-chiaro le responsabilità sulla base delle Linee guida AgID [1]_.
+chiaro le responsabilità sulla base delle Linee guida AgID [6]_.
 
 In alcuni casi, specie negli istituti più piccoli, è possibile che a una
 stessa persona vengano attribuite responsabilità multiple.
@@ -15,7 +15,7 @@ Di seguito sono elencate le principali informazioni amministrative che
 nella compilazione.
 
 7.1.1. Identificazione del progetto
------------------------------------
+***********************************
 
 **Nome del progetto** ⓘ: nome del progetto ed eventuale acronimo.
 
@@ -26,7 +26,7 @@ del progetto ed evitare possibili ambiguità. **Obiettivi del progetto**
 raggiungere, evidenziando la coerenza con quanto previsto dal PND.
 
 7.1.2. Ruoli e responsabilità ⓘ
--------------------------------
+*****************************
 
 **Responsabilità del progetto** ⓘ: indicazione dei nominativi delle
 persone che rivestono i vari ruoli definiti (responsabile del progetto,
@@ -65,10 +65,9 @@ progetto.
 
 .. _section-1:
 
-.. [1]
-    Linee guida nazionali per la valorizzazione del patrimonio
+.. [6] Linee guida nazionali per la valorizzazione del patrimonio
    informativo pubblico, “Aspetti organizzativi e qualità dei dati”.
    Agenzia per l’Italia Digitale. 2017.
-   https://docs.italia.it/italia/daf/lg-patrimonio-pubblico/it/stabile/aspettiorg.html
+   `<https://docs.italia.it/italia/daf/lg-patrimonio-pubblico/it/stabile/aspettiorg.html>`_
 
-.. |image0| image:: ./media/image2.jpeg
+.. |image0| image:: ../media/image2.jpeg

@@ -7,7 +7,7 @@ casi possono avere anche risvolti legali. Questa sezione descrive le
 modalità con cui vengono questi affrontati nella gestione dei dati.
 
 7.6.1. Dati personali e consenso informato ⓘ
---------------------------------------------
+---------------------------------------------
 
 Il diritto alla protezione dei dati è sancito dalla Carta dei diritti
 fondamentali dell'UE e dal Trattato sul funzionamento dell'Unione
@@ -92,7 +92,7 @@ che vanno affrontati nel progetto, e in particolare:
    diritti.
 
 7.6.3. Possibili fonti di *bias* ⓘ
-----------------------------------
+-----------------------------------
 
 Nella produzione, modellazione ed elaborazione dei dati è possibile che
 vengano introdotti *bias*, ovvero distorsioni che rendono i dati non
@@ -104,17 +104,17 @@ possibili fonti di *bias*, e che si prevedano meccanismi per correggerli
 
 La pubblicazione di dataset contenenti *bias* corre infatti il rischio
 di perpetuare le diseguaglianze sociali, ad esempio quelle di
-genere [1]_, etnia, lingua, religione, orientamento sessuale. Nella
+genere [13]_, etnia, lingua, religione, orientamento sessuale. Nella
 rappresentazione di dati storici, è inoltre particolarmente frequente
 che esistano *bias* “per omissione”, ovvero che nel dataset siano state
 privilegiate talune categorie sociali rispetto ad altre al punto di
-rendere queste ultime invisibili [2]_.
+rendere queste ultime invisibili [14]_.
 
 Qualora i dati fossero stati elaborati tramite metodi di intelligenza
 artificiale (es. apprendimento automatico di conoscenza da testi o
 immagini), occorre considerare i limiti degli attuali sistemi di
 *machine learning* e valutare attentamente i possibili *bias* che ne
-derivano [3]_.
+derivano [15]_.
 
 In questo paragrafo vanno descritti:
 
@@ -135,17 +135,14 @@ In questo paragrafo vanno descritti:
 
 .. _section-7:
 
-.. [1]
-    D’Ignazio, C. and Klein, L. F. (2020). Data Feminism. <Strong> Ideas
+.. [13] D’Ignazio, C. and Klein, L. F. (2020). Data Feminism. <Strong> Ideas
    Series. MIT Press.
 
-.. [2]
-    Ortolja-Baird, A. & Nyhan, J. (2021). "Encoding the haunting of an
+.. [14] Ortolja-Baird, A. & Nyhan, J. (2021). "Encoding the haunting of an
    object catalogue: on the potential of digital technologies to
    perpetuate or subvert the silence and bias of the early-modern
-   archive." \ \ *Digital Scholarship in the Humanities*.
+   archive." \ *Digital Scholarship in the Humanities*.
 
-.. [3]
-    Bender, Emily M., et al. "On the Dangers of Stochastic Parrots: Can
+.. [15] Bender, Emily M., et al. "On the Dangers of Stochastic Parrots: Can
    Language Models Be Too Big?" \ \ *Proceedings of the 2021 ACM
    Conference on Fairness, Accountability, and Transparency*. 2021.

@@ -5,12 +5,12 @@ Il PND prevede che ciascun istituto, prima di intraprendere un progetto
 di digitalizzazione o la creazione di una banca dati, rediga il proprio
 Piano di gestione dei dati al fine di delineare come le risorse digitali
 saranno trattate in fase di acquisizione, processamento, conservazione e
-valorizzazione [1]_.
+valorizzazione [3]_.
 
 Come previsto nel PND, il Ministero della Cultura (MiC) ha **tre livelli
 di governance**\ nella gestione dei dati:
 
--  **Direzioni generali:** l’Istituto centrale per la digitalizzazione
+-  **Direzioni generali**: l’Istituto centrale per la digitalizzazione
    del patrimonio culturale (ICDP), in accordo con le Direzioni
    generali, definisce le *policy* per i dati del Ministero e si occupa
    della gestione dell’infrastruttura nazionale dei dati del patrimonio
@@ -28,7 +28,7 @@ di governance**\ nella gestione dei dati:
    a disposizione gratuitamente dagli Istituti centrali e/o dalle
    Direzioni generali, ovvero - nel caso di utilizzo di sistemi locali -
    trattano i dati secondo gli standard nazionali e li rendono
-   disponibili per le procedure di *data harvesting*\  [2]_ svolte
+   disponibili per le procedure di *data harvesting*\ [4]_ svolte
    dall’ICDP per la condivisione con l’infrastruttura nazionale dei dati
    del patrimonio culturale;
 
@@ -62,10 +62,10 @@ avvierà una fase di sperimentazione alla fine della quale il modello
 potrà essere implementato in un *web tool* che verrà messo a
 disposizione degli Istituti.
 
-.. [1]
+.. [3]
     Cfr. il paragrafo 2.2.a del Piano nazionale di digitalizzazione.
 
-.. [2]
+.. [4]
     Il *data harvesting* è un processo in cui uno script viene
    utilizzato per estrarre automaticamente una grande quantità di dati
    di web site e/o di dataset per analizzarli per altri scopi.

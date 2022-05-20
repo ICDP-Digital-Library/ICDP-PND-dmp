@@ -1,4 +1,4 @@
-7.5. Open data 
+7.5. Open data
 ===============
 
 La pubblicazione dei dati in formato aperto è una delle fasi del ciclo
@@ -14,7 +14,7 @@ qualora un *dataset* non possa essere pubblicato in formato aperto, è
 necessario motivare le ragioni ostative. In questa sezione vengono
 descritti gli standard adottati per gli open data, la licenza
 selezionata per la pubblicazione dei dati e il rispetto dei principi
-FAIR (*Findable*, *Accessible*, *Interoperable*, *Reusable*) [1]_ che
+FAIR (*Findable*, *Accessible*, *Interoperable*, *Reusable*) [10]_ che
 garantiscono la reperibilità, accessibilità, interoperabilità e
 riutilizzabilità dei dati. I *dataset* del Ministero saranno metadatati
 e descritti secondo le indicazioni e i profili applicativi forniti da
@@ -22,10 +22,10 @@ AgID e resi disponibili in un registro dei metadati appositamente
 costruito.
 
 Il MiC prevede la pubblicazione dei dati aperti nel portale
-`https://dati.beniculturali.it <https://dati.beniculturali.it/>`__, che
+`<https://dati.beniculturali.it>`_, che
 costituisce il repository dei dati aperti del Ministero. I dati
 pubblicati nel portale saranno automaticamente conferiti al portale
-nazionale dei dati aperti (dati.gov.it) e da qui all'equivalente portale
+nazionale dei dati aperti (`<dati.gov.it>`_) e da qui all'equivalente portale
 europeo. 
 
 Di seguito sono indicati gli aspetti relativi agli open data che è
@@ -35,10 +35,10 @@ alle *FAQ per la pubblicazione di dati aperti* in calce al presente
 documento.
 
 7.5.1. Livello open data ⓘ
---------------------------
+**************************
 
 Le **Linee guida AgID**, che riprendono la definizione di Open Data del
-W3C [2]_, prevedono cinque possibili livelli di open data, come mostrato
+W3C [11]_, prevedono cinque possibili livelli di open data, come mostrato
 nella voce corrispondete delle FAQ.
 
 Il MiC pubblicherà i dati in formato aperto almeno di livello 3\*
@@ -50,12 +50,12 @@ Nel DMP deve essere indicato se i dati saranno pubblicati in formato
 aperto e a che livello.
 
 7.5.2. Identificatori ⓘ ⓓ
--------------------------
+**************************
 
 In caso di *Open Data* di livello 4\* o 5*, è opportuno indicare nel DMP
 le metodologie adottate per la costruzione di URI (*Uniform Resource
 Identifier*) o IRI (*Internationalized Resource Identifier*) univoci e
-persistenti, facendo riferimento alle linee guida del W3C [3]_.
+persistenti, facendo riferimento alle linee guida del W3C [12]_.
 
 Nel DMP è importante descrivere in che modo vengono assegnati questi
 identificatori, come vengono costruiti e qual è il nome di dominio di
@@ -68,7 +68,7 @@ stessa; nel caso dell’adozione di un modello “federato” gli URI dovranno
 essere indicati dal singolo istituto.
 
 7.5.3. Standard per gli open data ⓘ ⓒ
--------------------------------------
+**************************************
 
 Un altro aspetto importante che va descritto nel DMP riguarda gli
 standard adottati per la produzione degli open data; va quindi
@@ -76,7 +76,7 @@ registrato nel DMP quale versione è stata adottata di quale standard e
 per quale tipologia di dati viene utilizzato.
 
 7.5.4. Ontologie e vocabolari di riferimento ⓘ ⓒ
-------------------------------------------------
+*************************************************
 
 Allo stesso modo, è opportuno documentare nel DMP le ontologie e
 vocabolari di riferimento adottati nel progetto, descrivendo le finalità
@@ -84,7 +84,7 @@ per cui verranno utilizzati. Si raccomanda di modellare i dati sulla
 base dei vocabolari e delle ontologie di OntoPiA (cfr. voce specifica
 nelle FAQ allegate) in larga parte allineati (collegati) a standard
 aperti del Web e disponibili in formati aperti standard sulla
-piattaforma https://github.com/italia/. Gli uffici del MiC, per il
+piattaforma `<https://github.com/italia/>`_. Gli uffici del MiC, per il
 tramite degli Istituti centrali, sono incoraggiati ad avviare un
 processo di standardizzazione sia per la rappresentazione di dati
 ricorrenti, indipendenti dallo specifico dominio applicativo, come per
@@ -99,7 +99,7 @@ progetto vengono prodotti delle ontologie o dei vocabolari, è opportuno
 descriverli nel DMP, in modo da facilitarne il più possibile il riuso.
 
 7.5.5. Licenze open data ⓘ ⓓ
-----------------------------
+*****************************
 
 La scelta di una licenza è indispensabile per determinare come poter
 riutilizzare il dataset. È quindi opportuno indicare nel DMP il nome e
@@ -108,7 +108,7 @@ quali dati si applicano e fornendo anche un riferimento al testo
 completo della licenza (cfr. voce specifica nelle FAQ allegate).
 
 7.5.6. Integrazione con altri dataset ⓘ
----------------------------------------
+***************************************
 
 Uno dei principali vantaggi dell’adozione degli *open data* e dell’uso
 degli standard del Semantic Web è la facilità di integrazione o
@@ -136,14 +136,10 @@ base di conoscenza esistente, è opportuno descrivere in che modo è
 prevista la pubblicazione e in che modo è stata valutata la
 compatibilità delle licenze.
 
-.. [1]
-    Wilkinson, M., Dumontier, M., Aalbersberg, I. et al. The FAIR
+.. [10] Wilkinson, M., Dumontier, M., Aalbersberg, I. et al. The FAIR
    Guiding Principles for scientific data management and stewardship.
-   Sci Data 3, 160018 (2016). https://doi.org/10.1038/sdata.2016.18
+   Sci Data 3, 160018 (2016). `<https://doi.org/10.1038/sdata.2016.18>`_
 
-.. [2]
+.. [11] `<https://dvcs.w3.org/hg/gld/raw-file/default/glossary/index.html#x5-star-linked-open-data>`_
 
-   https://dvcs.w3.org/hg/gld/raw-file/default/glossary/index.html#x5-star-linked-open-data
-
-.. [3]
-    https://www.w3.org/TR/ld-bp/
+.. [12] `<https://www.w3.org/TR/ld-bp/>`_

@@ -921,7 +921,6 @@ piattaforma è essenzialmente un’interfaccia sperimentale
 machine-to-machine (m2m) che offre *linked open data* interrogabili via
 endpoint SPARQL.
 
-|image3|
 
 .. [1]
 

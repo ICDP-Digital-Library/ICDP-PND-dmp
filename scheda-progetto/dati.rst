@@ -17,7 +17,7 @@ descrivere nel DMP. Di fianco al nome di ogni sezione è indicata la
 responsabilità nella compilazione.
 
 7.2.1. Produzione e raccolta dei dati ⓘ
----------------------------------------
+****************************************
 
 In questa sezione è opportuno descrivere le modalità di produzione e
 raccolta dei dati in relazione agli obiettivi del progetto. In
@@ -35,16 +35,14 @@ ulteriori informazioni, fare riferimento al capitolo I, sezione D delle
 *Linee guida per l’acquisizione, la circolazione e il riuso delle
 riproduzioni dei beni culturali in ambiente digitale.*
 
-.. _section-2:
-
 7.2.2. Tipologie e formati di dati ⓘ
-------------------------------------
+*************************************
 
 È opportuno che il DMP descriva tutte le tipologie di dati
 prodotti/raccolti nel progetto, e per ogni tipologia il formato in cui
 sono raccolti i dati, facendo riferimento al capitolo II delle *Linee
 guida per la digitalizzazione del patrimonio culturale* e alle linee
-guida AgID sui formati aperti per i dati e i documenti [1]_. L’uso dei
+guida AgID sui formati aperti per i dati e i documenti [7]_. L’uso dei
 formati consigliati dalle linee guida garantisce la migliore esecuzione
 del processo di digitalizzazione e della valorizzazione del bene.
 Inoltre, buona pratica per la conservazione a lungo termine di progetti
@@ -54,7 +52,7 @@ non compresso) e uno o più **file derivati**.
 .. _section-3:
 
 7.2.3. Origine dei dati ⓘ
--------------------------
+**************************
 
 Un aspetto che va sicuramente monitorato e tracciato è l’origine dei
 dati che ci si trova a trattare. Affinché possano essere documentate la
@@ -68,7 +66,7 @@ migrazione (sezione 7.2.5).
 .. _section-4:
 
 7.2.4. Tipologia di beni ⓘ
---------------------------
+***************************
 
 Per ciò che riguarda un progetto di digitalizzazione, la precisazione
 della tipologia dei beni a cui si riferiscono gli oggetti digitali può
@@ -82,7 +80,7 @@ utili anche a fini statistici e di ricerca.
 .. _section-5:
 
 7.2.5. Migrazione di dati esistenti ⓘ
--------------------------------------
+**************************************
 
 Nel caso di migrazione o conversione di dati esistenti, è opportuno
 indicare nel DMP le tipologie di migrazione e conversione e i metodi
@@ -99,7 +97,7 @@ software vengono utilizzati per compiere queste operazioni e descrivere
 l’archivio dei file sorgenti.
 
 7.2.6. Quantità di dati prevista ⓘ
-----------------------------------
+***********************************
 
 È importante stimare fin dall'inizio del progetto la quantità di dati
 che si prevede di raccogliere, o almeno il loro ordine di grandezza. In
@@ -107,6 +105,4 @@ base alla quantità di dati indicata, potranno essere previsti diversi
 profili di configurazione, con riferimento anche al conferimento
 all’infrastruttura software per i beni culturali.
 
-.. [1]
-
-   https://docs.italia.it/italia/daf/lg-patrimonio-pubblico/it/stabile/arch.html#formati-aperti-per-i-dati-e-documenti
+.. [7] `<https://docs.italia.it/italia/daf/lg-patrimonio-pubblico/it/stabile/arch.html#formati-aperti-per-i-dati-e-documenti>`_

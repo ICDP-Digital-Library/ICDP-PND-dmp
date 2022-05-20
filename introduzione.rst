@@ -1,15 +1,9 @@
 Introduzione
 ============
 
-Al pari di una qualsiasi attività che interessa il patrimonio culturale
-e i luoghi della cultura, anche i progetti di digitalizzazione, e più in
-generale la gestione di banche dati, necessitano di un’accurata
-programmazione che dia conto di tutte le fasi del processo generativo.
-Inoltre i dati, una volta prodotti, rappresentano un patrimonio che va
-correttamente gestito al fine della sua permanenza nel tempo.
+Al pari di una qualsiasi attività che interessa il patrimonio culturale e i luoghi della cultura, anche i progetti di digitalizzazione, e più in generale la gestione di banche dati, necessitano di un’accurata programmazione che dia conto di tutte le fasi del processo generativo. Inoltre i dati, una volta prodotti, rappresentano un patrimonio che v acorrettamente gestito al fine della sua permanenza nel tempo.
 
-Il **piano di gestione dei dati** (**Data Management Plan**, abbreviato
-**DMP**) è uno strumento che contribuisce a tale obiettivo, documentando
+Il **piano di gestione dei dati** (**Data Management Plan**, abbreviato **DMP**) è uno strumento che contribuisce a tale obiettivo, documentando
 le modalità di creazione, raccolta, gestione, conservazione e
 valorizzazione delle informazioni nell'ambito di un progetto di gestione
 dei dati o di digitalizzazione. Lo scopo della pianificazione della
@@ -39,6 +33,4 @@ strumenti operativi per rendere la compilazione dei DMP un metodo
 sistematico per presentare e accompagnare i progetti di
 digitalizzazione.
 
-.. [1]
-    Cfr.
-   https://www.dati.gov.it/linee-guida-valorizzazione-patrimonio-informativo-pubblico.
+.. [1] Cfr. `<https://www.dati.gov.it/linee-guida-valorizzazione-patrimonio-informativo-pubblico.>`_
