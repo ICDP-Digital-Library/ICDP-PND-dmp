@@ -65,7 +65,6 @@ disposizione degli Istituti.
 .. [3]
     Cfr. il paragrafo 2.2.a del Piano nazionale di digitalizzazione.
 
-.. [4]
-    Il *data harvesting* è un processo in cui uno script viene
+.. [4] Il *data harvesting* è un processo in cui uno script viene
    utilizzato per estrarre automaticamente una grande quantità di dati
    di web site e/o di dataset per analizzarli per altri scopi.

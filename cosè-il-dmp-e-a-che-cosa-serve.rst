@@ -80,8 +80,7 @@ Concludendo, il DMP è uno strumento:
    attori che prendono parte al processo di produzione e gestione dei
    dati.
 
-.. [2]
-    Il dato va prodotto una sola volta, deve essere conservato in
+.. [2] Il dato va prodotto una sola volta, deve essere conservato in
    un'unica posizione, ne va garantita la qualità e l’aggiornamento e
    tutti gli uffici del MiC lo utilizzano. Questo è particolarmente
    utile nella gestione delle cosiddette anagrafiche degli istituti
