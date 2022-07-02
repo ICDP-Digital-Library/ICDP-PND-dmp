@@ -1,11 +1,11 @@
-7.7. Archiviazione, pubblicazione e preservazione dei dati
-==========================================================
+Archiviazione, pubblicazione e preservazione dei dati
+=====================================================
 
 Questa sezione descrive le procedure per l'archiviazione, la
 pubblicazione e la preservazione a lungo termine dei dati del progetto.
 
-7.7.1. Archiviazione dei dati ⓘ
------------------------------------
+Archiviazione dei dati ⓘ
+------------------------
 
 Nel DMP sono descritte le modalità con cui sono archiviati i dati del
 progetto. È sempre consigliabile archiviare i dati in repository
@@ -13,22 +13,23 @@ istituzionali. Il MiC dispone di un Centro Elaborazione Dati (CED) che
 si occupa dei servizi di *housing* e *hosting* della maggior parte dei
 sistemi informativi, dei siti e dei portali del MiC. In coerenza con la
 Strategia per la crescita digitale del Paese e il `Piano Triennale per
-l’informatica nella PA [16]_,
-AGID ha delineato una strategia *Cloud*\ [17]_ che prevede un percorso
+l’informatica nella
+PA <https://docs.italia.it/italia/piano-triennale-ict/pianotriennale-ict-doc/it/2020-2022/index.html>`__ [1]_,
+AGID ha delineato una strategia *Cloud* [2]_ che prevede un percorso
 di qualificazione per i soggetti pubblici e privati che intendono
 fornire servizi *cloud* alla Pubblica amministrazione, affinché queste
 ultime possano adottare servizi e infrastrutture di cloud computing
 omogenei, che rispettino elevati standard di sicurezza, efficienza e
 affidabilità. Inoltre, più recentemente, il Dipartimento per la
 trasformazione digitale con l’Agenzia per la cybersicurezza nazionale ha
-elaborato la Strategia Cloud Italia [18]_ contenente gli indirizzi
+elaborato la Strategia Cloud Italia [3]_ contenente gli indirizzi
 strategici per il percorso di migrazione verso il cloud di dati e
 servizi digitali della Pubblica Amministrazione.
 
 Coerentemente con questi orientamenti, per garantire l’archiviazione e
 la preservazione nel tempo dei dati del patrimonio culturale, il
-Ministero nell’ambito dell’investimento M1C3 1.1 “\ *Digital Strategy
-and Platforms for Cultural Heritage*\ ” del Piano Nazionale di Ripresa e
+Ministero nell’ambito dell’investimento M1C3 1.1 “*Digital Strategy
+and Platforms for Cultural Heritage*” del Piano Nazionale di Ripresa e
 Resilienza (PNRR) ha previsto di sviluppare un'infrastruttura (hardware
 e software) per la gestione delle risorse digitali e per
 l'orchestrazione di servizi e procedure, finalizzata alla raccolta,
@@ -71,16 +72,16 @@ del progetto, è opportuno comunque definire:
 
 -  le modalità di conservazione dei dataset
 
--  il responsabile della gestione dei dataset
+-  il responsabile della gestione dei dataset.
 
-7.7.2 Pubblicazione dei dati ⓘ ⓓ
------------------------------------
+Pubblicazione dei dati ⓘ ⓓ
+--------------------------
 
 Se l’istituto ha - o prevede di realizzare - un’interfaccia utente di
 fruizione delle informazioni (portale o sito web), in questa sezione è
 importante indicare dove e come verranno pubblicati i dati e descrivere
 in che modo è garantito il rispetto delle raccomandazioni AgID per la
-pubblicazione dei dati [19]_; nella pubblicazione occorrerà in
+pubblicazione dei dati [4]_; nella pubblicazione occorrerà in
 particolare prestare attenzione ai seguenti aspetti:
 
 -  assegnare ai dataset nomi auto-esplicativi e fornire descrizioni
@@ -110,12 +111,11 @@ Pertanto, in questa sezione del DMP occorre indicare:
 
 -  se l’interfaccia utente rispetta o meno i requisiti di usabilità
    previsti nel Piano quinquennale per l’informatica nella Pubblica
-   Amministrazione [20]_
+   Amministrazione [5]_
 
 -  se è prevista o meno la pubblicazione nel portale nazionale
-   `https://dati.beniculturali.it `<https://dati.beniculturali.it/>`_
-   (cfr. par. 7.5), di quali dati e con quali modalità e temporalità
-   (conferimenti manuali o *harvesting*).
+   https://dati.cultura.gov.it (cfr. par. 7.5), di quali dati e con
+   quali modalità e temporalità (conferimenti manuali o *harvesting*).
 
 Inoltre, poiché ogni interfaccia utente ha generalmente un suo *backend*
 di gestione, nel DMP va inoltre indicato:
@@ -137,15 +137,15 @@ di gestione, nel DMP va inoltre indicato:
 
 -  in caso di utilizzo dell’infrastruttura software del patrimonio
    culturale gestita dall’ICDP, qual è il modello di interazione
-   adottato (modello integrato/modello federato [21]_).
+   adottato (modello integrato/modello federato [6]_).
 
-7.7.3. Preservazione dei dati ⓘ
------------------------------------
+Preservazione dei dati ⓘ
+------------------------
 
 Nella gestione di un dataset, è fondamentale garantire la conservazione
-a lungo termine del dataset stesso. Il termine “\ *digital
-preservation*\ ” indica le strategie e i metodi adottati per garantire
-la conservazione del dato nel corso del tempo [22]_.
+a lungo termine del dataset stesso. Il termine “*digital
+preservation*” indica le strategie e i metodi adottati per garantire
+la conservazione del dato nel corso del tempo [7]_.
 
 Sia i formati utilizzati per i dati e i metadati, sia i supporti sui
 quali il dataset risiede, sono soggetti a obsolescenza, pertanto è molto
@@ -172,8 +172,8 @@ a lungo termine dei dati, e in particolare:
 
 .. _section-8:
 
-7.7.4. Procedure di *backup* ⓘ ⓓ
------------------------------------
+Procedure di *backup* ⓘ ⓓ
+-------------------------
 
 Oltre alla gestione dei rischi legati alla conservazione, è necessario
 individuare e implementare specifiche procedure di duplicazione
@@ -197,8 +197,8 @@ particolare, occorre indicare:
 
 -  chi ha la responsabilità di eseguire i *backup*.
 
-7.7.5. Certificazione per la conservazione a lungo termine ⓘ
-************************************************************
+Certificazione per la conservazione a lungo termine ⓘ
+-----------------------------------------------------
 
 Le eventuali attività di certificazione previste per la conservazione a
 lungo termine possono essere documentate e, in particolare, possono
@@ -212,17 +212,17 @@ essere segnalate:
 
 -  chi ha la responsabilità di gestire la certificazione.
 
-.. [16] `<https://docs.italia.it/italia/piano-triennale-ict/pianotriennale-ict-doc/it/2020-2022/index.html
+.. [1] https://www.agid.gov.it/it/agenzia/piano-triennale
 
-.. [17] `<https://www.agid.gov.it/it/infrastrutture/cloud-pa>`_
+.. [2] https://www.agid.gov.it/it/infrastrutture/cloud-pa
 
-.. [18] `<https://innovazione.gov.it/dipartimento/focus/strategia-cloud-italia/>`_
+.. [3] https://innovazione.gov.it/dipartimento/focus/strategia-cloud-italia/
 
-.. [19] `<https://docs.italia.it/italia/daf/lg-patrimonio-pubblico/it/stabile/publdatigov.html>`_
+.. [4] https://docs.italia.it/italia/daf/lg-patrimonio-pubblico/it/stabile/publdatigov.html
 
-.. [20] `<https://www.agid.gov.it/it/design-servizi/usabilita>`_
+.. [5] https://www.agid.gov.it/it/design-servizi/usabilita
 
-.. [21] `<I due principali modi per relazionarsi con l’infrastruttura software
+.. [6] I due principali modi per relazionarsi con l’infrastruttura software
    del patrimonio culturale sono: a) *modello integrato*: gli enti
    conferiscono i propri dati all’infrastruttura, condividendone i
    servizi: le risorse digitali sono quindi “ospitate”
@@ -237,7 +237,7 @@ essere segnalate:
    nell’infrastruttura, mentre il ciclo di vita dei dati è gestito
    dall’ente nei propri sistemi.
 
-.. [22] Lee, K. H., Slattery, O., Lu, R., Tang, X., & McCrary, V. (2002).
+.. [7] Lee, K. H., Slattery, O., Lu, R., Tang, X., & McCrary, V. (2002).
    The state of the art and practice in digital preservation. *Journal
    of research of the National institute of standards and technology*,
-   *107*\ \ (1), 93.
+   *107* (1), 93.

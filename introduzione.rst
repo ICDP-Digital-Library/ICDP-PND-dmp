@@ -1,9 +1,15 @@
 Introduzione
 ============
 
-Al pari di una qualsiasi attività che interessa il patrimonio culturale e i luoghi della cultura, anche i progetti di digitalizzazione, e più in generale la gestione di banche dati, necessitano di un’accurata programmazione che dia conto di tutte le fasi del processo generativo. Inoltre i dati, una volta prodotti, rappresentano un patrimonio che v acorrettamente gestito al fine della sua permanenza nel tempo.
+Al pari di una qualsiasi attività che interessa il patrimonio culturale
+e i luoghi della cultura, anche i progetti di digitalizzazione, e più in
+generale la gestione di banche dati, necessitano di un’accurata
+programmazione che dia conto di tutte le fasi del processo generativo.
+Inoltre i dati, una volta prodotti, rappresentano un patrimonio che va
+correttamente gestito al fine della sua preservazione nel tempo.
 
-Il **piano di gestione dei dati** (**Data Management Plan**, abbreviato **DMP**) è uno strumento che contribuisce a tale obiettivo, documentando
+Il **piano di gestione dei dati** (**Data Management Plan**, abbreviato
+**DMP**) è uno strumento che contribuisce a tale obiettivo, documentando
 le modalità di creazione, raccolta, gestione, conservazione e
 valorizzazione delle informazioni nell'ambito di un progetto di gestione
 dei dati o di digitalizzazione. Lo scopo della pianificazione della
@@ -18,13 +24,13 @@ dall’attività degli istituti culturali: dati provenienti da nuove o
 precedenti digitalizzazioni di beni culturali, prodotti della ricerca,
 documenti digitali di vario genere connessi a qualunque attività. Il
 presente documento, che correda il Piano nazionale di digitalizzazione
-del patrimonio culturale (PND), fornisce le linee guida per la redazione
+del patrimonio culturale (PND), fornisce le Linee guida per la redazione
 dei piani di gestione dei dati nello specifico ambito dei progetti di
 digitalizzazione e della gestione di banche dati sui beni culturali. È
 stato redatto avendo a riferimento le “Linee guida nazionali per la
 valorizzazione del patrimonio informativo pubblico” elaborate da AgID -
-Agenzia per l’Italia Digitale [1]_ (di seguito anche “\ **Linee guida
-AgiD**\ ”).
+Agenzia per l’Italia Digitale [1]_ (di seguito anche “**Linee guida
+AgiD**”).
 
 In questa prima versione, l’obiettivo del documento è introdurre la
 metodologia al fine di una sua concreta sperimentazione sul campo. In
@@ -33,4 +39,4 @@ strumenti operativi per rendere la compilazione dei DMP un metodo
 sistematico per presentare e accompagnare i progetti di
 digitalizzazione.
 
-.. [1] Cfr. `<https://www.dati.gov.it/linee-guida-valorizzazione-patrimonio-informativo-pubblico.>`_
+.. [1] Cfr.  https://www.dati.gov.it/linee-guida-valorizzazione-patrimonio-informativo-pubblico.

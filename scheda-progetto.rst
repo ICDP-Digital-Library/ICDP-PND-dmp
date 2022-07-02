@@ -1,5 +1,5 @@
-7. Scheda progetto
-==================
+Scheda progetto
+===============
 
 Nella **scheda progetto** sono riportate tutte le informazioni di
 dettaglio relative al singolo progetto di creazione di contenuti
@@ -8,8 +8,8 @@ partire dalle informazioni amministrative fino ad arrivare alle
 tipologie di dati e metadati, al rispetto dei requisiti di qualità,
 accessibilità, riuso, conservazione, sicurezza, e così via.
 
-Il modello di scheda progetto proposto dalla *Digital Library* è
-suddiviso nelle seguenti sezioni:
+Il modello di scheda progetto proposto dalla Digital Library è suddiviso
+nelle seguenti sezioni:
 
 1. **Sezione “Informazioni amministrative”**. Descrive il progetto, le
    persone e gli uffici che sono responsabili della gestione dei dati.
@@ -18,14 +18,15 @@ suddiviso nelle seguenti sezioni:
    prodotti, raccolti e conservati nell’ambito del progetto.
 
 3. **Sezione “Metadati”**. Descrive gli standard e gli schemi di
-   metadati a cui fa riferimento il progetto.
+   metadati a cui fa riferimento il progetto e i formati in cui sono
+   rappresentati.
 
 4. **Sezione “Qualità dei dati e documentazione”**. Descrive le misure
    che vanno seguite al fine di assicurare la qualità dei dati e dei
    metadati a essi relativi.
 
 5. **Sezione “Open data e principi FAIR”**. Descrive le misure adottate
-   per garantire il l’accessibilità e il riuso dei dati.
+   per garantire l’accessibilità e il riuso dei dati.
 
 6. **Sezione “Aspetti etici e legali”**. Descrive gli aspetti etici
    derivanti dal progetto e in che modo vengono affrontati.
@@ -45,12 +46,13 @@ scheda progetto.
 
 .. toctree::
   :maxdepth: 3
+  :numbered:
   :caption: Indice dei contenuti
 
   scheda-progetto/informazioni-amministrative.rst
   scheda-progetto/dati.rst
   scheda-progetto/metadati.rst
-  scheda-progetto/qualità-dei-dati-e-documentazione.rst
+  scheda-progetto/qualita-dei-dati-e-documentazione.rst
   scheda-progetto/open-data.rst
   scheda-progetto/aspetti-etici-e-legali.rst
   scheda-progetto/archiviazione-pubblicazione-e-preservazione-dei-dati.rst

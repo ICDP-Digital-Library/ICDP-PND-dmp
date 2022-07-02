@@ -1,9 +1,9 @@
-7.8. Sicurezza dei dati
-=======================
+Sicurezza dei dati
+==================
 
 La digitalizzazione dei dati semplifica l’accesso e la condivisione
 degli stessi, ma introduce anche una serie di rischi legati alla
-sicurezza informatica (o *cybersecurity*). [23]_ È infatti possibile che
+sicurezza informatica (o *cybersecurity*). [1]_ È infatti possibile che
 i dati condivisi in rete, se non adeguatamente protetti, subiscano
 furti, compromissioni o alterazioni da parte di soggetti
 malintenzionati.
@@ -12,18 +12,18 @@ L’Agenzia per l’Italia Digitale ha previsto una serie di misure atte a
 evitare possibili accessi non autorizzati o violazioni dei privilegi di
 accesso, valutando periodicamente le possibili vulnerabilità che
 potrebbero condurre a violazioni della sicurezza dei dati. In
-particolare, sono previsti tre diversi livelli di attuazione [24]_:
+particolare, sono previsti tre diversi livelli di attuazione [2]_:
 
--  Minimo: è quello al quale ogni Pubblica Amministrazione,
+-  minimo: è quello al quale ogni Pubblica Amministrazione,
    indipendentemente dalla sua natura e dimensione, deve necessariamente
    essere o rendersi conforme.
 
--  Standard: è il livello, superiore al livello minimo, che ogni
+-  standard: è il livello, superiore al livello minimo, che ogni
    amministrazione deve considerare come base di riferimento in termini
    di sicurezza e rappresenta la maggior parte delle realtà della PA
    italiana.
 
--  Avanzato: deve essere adottato dalle organizzazioni maggiormente
+-  avanzato: deve essere adottato dalle organizzazioni maggiormente
    esposte a rischi (ad esempio per la criticità delle informazioni
    trattate o dei servizi erogati), ma anche visto come obiettivo di
    miglioramento da parte di tutte le altre organizzazioni.
@@ -31,10 +31,10 @@ particolare, sono previsti tre diversi livelli di attuazione [24]_:
 Il MiC consiglia l’adozione delle misure di sicurezza standard, ma è in
 ogni caso indispensabile raggiungere almeno il livello minimo. Un
 approfondimento sul tema è fornito dalle misure di sicurezza ICT per le
-pubbliche amministrazioni indicate dall’AgID. [25]_
+pubbliche amministrazioni indicate dall’AgID. [3]_
 
-7.8.1. Disposizioni per la sicurezza dei dati ⓘ
------------------------------------------------
+Disposizioni per la sicurezza dei dati ⓘ
+----------------------------------------
 
 Nella sezione sono descritte le misure che verranno messe in atto per il
 rispetto delle misure minime di sicurezza ICT per le pubbliche
@@ -56,23 +56,23 @@ che sono da considerare in questa sezione:
 
 -  chi ha la responsabilità di eseguire queste verifiche.
 
-7.8.2. Standard per la sicurezza dei dati ⓘ
--------------------------------------------
+Standard per la sicurezza dei dati ⓘ
+------------------------------------
 
 Per garantire la sicurezza dei dati, è opportuno adottare criteri
 standard di valutazione della sicurezza. Il MiC consiglia di adottare lo
 standard ABSC (AgID Basic Security Controls) definito dall’Agenzia per
-l’Italia digitale [26]_, che è compatibile con il framework FNSC
-(Framework Nazionale di Sicurezza Cibernetica [27]_) e con lo standard
-internazionale CCSC (CIS Critical Security Controls [28]_). Lo standard
+l’Italia digitale [4]_, che è compatibile con il framework FNSC
+(Framework Nazionale di Sicurezza Cibernetica [5]_) e con lo standard
+internazionale CCSC (CIS Critical Security Controls [6]_). Lo standard
 ABSC prevede la creazione di un inventario dei dispositivi autorizzati e
 non autorizzati, l’adozione di standard per la protezione dei
 dispositivi, una valutazione continua delle vulnerabilità per far fronte
 a nuovi possibili rischi, un uso appropriato dei privilegi di accesso e
 la protezione da *malware*. Sono inoltre previste altre due attività
 molto importanti, ovvero l’esecuzione di copie di *backup* (cfr. par.
-7.7.5) e la protezione dei dati soggetti a vincoli di riservatezza
-(sicfr. Par. 7.8.4).
+7.7.5) e la protezione dei dati soggetti a vincoli di riservatezza (si
+cfr. Par. 7.8.4).
 
 In questa sezione del DMP è opportuno riportare:
 
@@ -84,8 +84,8 @@ In questa sezione del DMP è opportuno riportare:
 
 -  in che modo è stato verificato il rispetto di tali standard.
 
-7.8.3. Rischi per la sicurezza dei dati ⓘ
------------------------------------------
+Rischi per la sicurezza dei dati ⓘ
+----------------------------------
 
 Questa sezione delinea sinteticamente i possibili rischi previsti per la
 sicurezza dei dati, facendo riferimento alla specifica tipologia di dati
@@ -106,10 +106,8 @@ prevedono:
 
 -  qualunque altro rischio per la sicurezza dei dati non elencato sopra.
 
-.. _section-9:
-
-7.8.4. Sicurezza dei dati sensibili ⓘ
--------------------------------------
+Sicurezza dei dati sensibili ⓘ
+------------------------------
 
 Nel caso di pubblicazione di dati soggetti al Regolamento sulla
 protezione dei dati personali, occorre prevedere una regolamentazione
@@ -144,18 +142,19 @@ In questa sezione del DMP occorre quindi indicare:
 -  se è stata eseguita una anonimizzazione o pseudonimizzazione dei
    dati, e se sì di quali dati e con quali modalità.
 
-.. [23] Jang-Jaccard, J., & Nepal, S. (2014). A survey of emerging threats
+.. [1] Jang-Jaccard, J., & Nepal, S. (2014). A survey of emerging threats
    in cybersecurity. *Journal of Computer and System Sciences*, 80(5),
    973-993.
 
-.. [24] `<https://www.agid.gov.it/it/sicurezza/misure-minime-sicurezza-ict
+.. [2] https://www.agid.gov.it/it/sicurezza/misure-minime-sicurezza-ict
 
-.. [25] Agenzia per l’Italia Digitale (2016), *Misure minime di sicurezza
-   ICT per le pubbliche amministrazioni* (`<https://www.agid.gov.it/sites/default/files/repository_files/documentazione/misure_minime_di_sicurezza_v.1.0.pdf)
+.. [3] Agenzia per l’Italia Digitale (2016), *Misure minime di sicurezza
+   ICT per le pubbliche amministrazioni*
+   (https://www.agid.gov.it/sites/default/files/repository_files/documentazione/misure_minime_di_sicurezza_v.1.0.pdf)
 
-.. [26] Questo standard è descritto nelle *Misure minime di sicurezza ICT
+.. [4] Questo standard è descritto nelle *Misure minime di sicurezza ICT
    per le pubbliche amministrazioni* citate in precedenza.
 
-.. [27] `<https://www.cybersecurityframework.it>`_
+.. [5] https://www.cybersecurityframework.it
 
-.. [28] `<https://www.cisecurity.org/controls>`_
+.. [6] https://www.cisecurity.org/controls

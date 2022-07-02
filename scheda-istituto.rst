@@ -1,5 +1,5 @@
-6. Scheda istituto
-==================
+Scheda istituto
+===============
 
 Nella **scheda istituto** sono riportate le informazioni generali
 relative all’istituto e ai ruoli e alle responsabilità interne relative

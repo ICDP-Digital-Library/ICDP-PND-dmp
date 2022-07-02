@@ -1,12 +1,16 @@
-**Piano nazionale di digitalizzazione del patrimonio culturale**
+============================================================
+Piano nazionale di digitalizzazione del patrimonio culturale
+============================================================
 
-Linee guida per la redazione del piano di gestione dei dati
-===========================================================
 **(DATA MANAGEMENT PLAN)**
 
 |image0|
 
-**Versione in consultazione 2022-2023**
+**2022-2023**
+
+**Versione n.1.0 - giugno 2022**
+
+**Linee guida per la redazione del piano di gestione dei dati**
 
 .. toctree::
   :maxdepth: 3
@@ -14,11 +18,15 @@ Linee guida per la redazione del piano di gestione dei dati
 
   crediti.rst
   introduzione.rst
-  cosè-il-dmp-e-a-che-cosa-serve.rst
+
+.. toctree::
+  :maxdepth: 3
+  :numbered:
+
+  cose-il-dmp-e-a-che-cosa-serve.rst
   il-dmp-nel-piano-nazionale-di-digitalizzazione.rst
   data-governance-interna.rst
-  attività-preliminari.rst
-  struttura-dmp.rst
+  attivita-preliminari.rst
   scheda-istituto.rst
   scheda-progetto.rst
   strumenti-per-la-compilazione-del-dmp.rst

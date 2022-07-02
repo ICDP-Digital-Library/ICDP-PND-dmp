@@ -39,6 +39,7 @@ responsabili di basi di dati specifiche, responsabili amministrativi,
 esperti di dominio).
 
 Cosa sono i dati aperti (open data)?
+------------------------------------
 
 Il Codice dell’Amministrazione digitale (decreto legislativo 7 marzo
 2005, n. 82) all’art. 1, definisce aperti i dati:
@@ -75,6 +76,7 @@ principi di base:
 I dati aperti del MiC aderiscono ai principi FAIR.
 
 Cosa sono i principi FAIR?
+--------------------------
 
 Nel 2014 sono stati elaborati alcuni principi per la condivisione dei
 dati scientifici, denominati FAIR (acronimo derivante dai termini
@@ -174,6 +176,7 @@ particolare tramite:
    settore.
 
 Cosa significa formato aperto (#FormatoAperto)?
+-----------------------------------------------
 
 Con formato dei dati di tipo aperto si intende un formato reso pubblico,
 documentato esaustivamente e neutro rispetto agli strumenti tecnologici
@@ -193,6 +196,7 @@ mirando, nel tempo, a pubblicare solo dati di livello a 4\* e 5\*
 (*Linked Open Data*).
 
 Cosa sono i linked (open) data?
+-------------------------------
 
 I *linked data* (trad.: dati collegati [ad altri dati]) sono una
 modalità di pubblicazione di dati strutturati basata su tecnologie e
@@ -223,8 +227,8 @@ produzione di LOD che sarà possibile se trainata dagli Istituti centrali
 e dalle Direzioni generali.
 
 Esistono leggi che impongono di pubblicare dati in formato aperto?
-
-Il principio dell’\ *open data by default* è stato introdotto nel 2012
+------------------------------------------------------------------
+Il principio dell’*open data by default* è stato introdotto nel 2012
 con la modifica dell’articolo 52 del Codice dell’Amministrazione
 Digitale, per cui “i dati e i documenti che [le PA] pubblicano, con
 qualsiasi modalità, senza l'espressa adozione di una licenza […] si
@@ -245,11 +249,12 @@ ordine di tempo: la direttiva PSI del 2013, rispetto alla prima del
 2003, ha incluso per la prima volta nel proprio ambito di applicazione i
 dati detenuti musei, archivi e biblioteche, ma ha finito per rimanere in
 buona parte priva di effetti su questi istituti per la mancata
-emanazione del decreto ministeriale che avrebbe dovuto definire i
+emanazione del decreto ministeriale, che avrebbe dovuto definire i
 criteri di tariffazione legati al riuso dei dati detenuti dagli istituti
 pubblici di tutela.
 
 Tutti i dati devono essere pubblicati in formato aperto?
+--------------------------------------------------------
 
 Tutti i dati detenuti dalle pubbliche amministrazioni devono essere
 pubblicati in formato aperto, con le seguenti esclusioni:
@@ -262,7 +267,7 @@ pubblicati in formato aperto, con le seguenti esclusioni:
    196/2003 e Linee guida in materia di trattamento di dati personali e
    s.m.i.). In questo caso, si ponga anche attenzione a non esporre
    quasi-identificatori (e.g., data di nascita, domicilio, residenza,
-   sesso, razza, etnia, composizione nucleo famigliare, status
+   sesso, etnia, composizione nucleo famigliare, status
    giuridico, ecc.) che possono facilmente re-identificare i soggetti
    che si intende invece tutelare o che hanno una tutela speciale perché
    appartenenti a fasce protette (e.g., testimoni giudiziari, profughi,
@@ -270,7 +275,7 @@ pubblicati in formato aperto, con le seguenti esclusioni:
    verificare gli artt. 3 e 4 del D. Lgs. 36/2006 per una visione
    approfondita circa le esclusioni e le norme di salvaguardia.
 
-Per quanto riguarda le riproduzioni digitali dei beni culturali un
+Per quanto riguarda le riproduzioni digitali dei beni culturali, un
 limite alla pubblicazione in formato aperto è rappresentato dalle
 prescrizioni dell’art. 107 e 108 del Codice dei beni culturali, dove si
 prevede la corresponsione di un canone per i riusi commerciali; nessuna
@@ -280,7 +285,7 @@ approfondimento sul tema si rimanda alle *Linee guida per
 l’acquisizione, la circolazione e il riuso delle riproduzioni di beni
 culturali in ambiente digitale*.
 
-AgID fornisce una breve “\ **check list**\ ”, utile per verificare se
+AgID fornisce una breve “**check list**”, utile per verificare se
 tutti gli aspetti giuridici sono stati valutati dal responsabile della
 banca dati. La check list è formata da una serie di domande, per ciascun
 aspetto, a cui rispondere con Sì o No.
@@ -502,6 +507,7 @@ aspetto, a cui rispondere con Sì o No.
 +-----------------------+-----------------------+-----------------------+
 
 E se i dati contengono riferimenti espliciti a persone (dato personale)?
+------------------------------------------------------------------------
 
 In questo caso i dati non vanno pubblicati in formato aperto, a meno che
 non sia possibile procedere all’anonimizzazione del dato. I dati possono
@@ -514,6 +520,7 @@ quindi ai singoli responsabili del trattamento garantire che qualunque
 processo di anonimizzazione scelto sia sufficientemente solido.
 
 Che vantaggi si traggono dalla pubblicazione dei dati aperti?
+-------------------------------------------------------------
 
 La valorizzazione del patrimonio informativo pubblico è un obiettivo
 strategico per la pubblica amministrazione, soprattutto per affrontare
@@ -553,6 +560,7 @@ leggibili meccanicamente, accessibili, reperibili e riutilizzabili,
 insieme ai rispettivi metadati.
 
 Si possono fare pagare i dati?
+------------------------------
 
 La condivisione dei dati tra pubbliche amministrazioni per finalità
 istituzionali (art. 50 del CAD), avviene esclusivamente a titolo
@@ -594,6 +602,7 @@ riproduzioni dei beni culturali, si rimanda a quanto previsto nelle
 riproduzioni digitali dei beni culturali in ambiente digitale*.
 
 Con che licenza si devono pubblicare i dati aperti (#Licenza)?
+--------------------------------------------------------------
 
 Per licenza d’uso si intende il contratto, o altro strumento negoziale,
 redatto ove possibile in forma elettronica, nel quale sono definite le
@@ -617,7 +626,7 @@ segue le licenze vengono classificate secondo tale criterio:
 |Figura 7: Licenze aperte e non aperte per i dataset|
 
 *Figura 5 - Lo schema è tratto dalla figura disponibile al seguente
-link:*\ https://docs.italia.it/italia/daf/lg-patrimonio-pubblico/it/stabile/licenzecosti.html#id5
+link:* https://docs.italia.it/italia/daf/lg-patrimonio-pubblico/it/stabile/licenzecosti.html#id5
 
 Tutte le licenze che non consentono lavori derivati, anche per finalità
 commerciali, i.e., licenze che riportano chiaramente clausole Non
@@ -628,7 +637,7 @@ possono essere ritenute valide per identificare dataset aperti.
 Le licenze più usate per gli open data appartengono a tre categorie
 principali:
 
-1. il pubblico dominio o “\ *waiver*\ ” dove il dichiarante
+1. il pubblico dominio o “*waiver*” dove il dichiarante
    “apertamente, pienamente, permanentemente, irrevocabilmente e
    incondizionatamente rinuncia, abbandona e cede ogni proprio diritto
    d’autore e connesso, ogni relativa pretesa, rivendicazione, causa e
@@ -638,7 +647,7 @@ principali:
    internazionali Creative Commons e la Open Data Commons – Public
    Domain Dedication License (ODC-PDDL) per i dataset/database;
 
-2. le licenze per l’\ *open data* con richiesta di attribuzione, che
+2. le licenze per l’*open data* con richiesta di attribuzione, che
    consentono di condividere, adattare e creare anche per finalità
    commerciali con il solo vincolo di attribuire la paternità del
    dataset. Rientrano in questa categoria la licenza CC-BY della
@@ -646,7 +655,7 @@ principali:
    sua versione 2.0 e la Open Data Commons Attribution License (ODC-BY)
    per dataset/database.
 
-3. le licenze per l’\ *open data* con richiesta di attribuzione e
+3. le licenze per l’*open data* con richiesta di attribuzione e
    condivisione allo stesso modo, che consentono di condividere,
    adattare e creare anche per finalità commerciali nel rispetto però di
    due vincoli: a) attribuire la paternità del dataset; b) distribuire
@@ -712,6 +721,7 @@ nella tabella seguente:
 |image2|
 
 Cosa sono le licenze Creative Commons (CC)
+------------------------------------------
 
 Le licenze più note a livello internazionale sono le Creative Commons
 (CC) [4]_, proposte nel 2002 da Lawrence Lessig, d’uso ormai sempre più
@@ -726,25 +736,25 @@ permettere all’autore dell’opera, o comunque al titolare dei diritti di
 sfruttamento economici, una gestione più agile ed equilibrata dei propri
 diritti favorendo al tempo stesso un uso più responsabile e consapevole
 delle risorse digitali da parte del pubblico. Le licenze CC si basano
-sul concetto di “\ *some rights reserved*\ ” (alcuni diritti riservati)
-in opposizione alla formula tradizionale “\ *all rights reserved*\ ”
+sul concetto di “*some rights reserved*” (alcuni diritti riservati)
+in opposizione alla formula tradizionale “*all rights reserved*”
 (tutti i diritti riservati).
 
 Le licenze CC sono complessivamente sei e derivano dalla combinazione
 dei seguenti quattro attributi:
 
--  Attribuzione/\ *Attribution* (**BY**): l’utente è tenuto ad
+-  Attribuzione/*Attribution* (**BY**): l’utente è tenuto ad
    attribuire la paternità dell’opera nel modo indicato dall’autore
    stesso;
 
--  Non opere derivate/\ *No Derivatives* (**ND**): l’opera non può
+-  Non opere derivate/*No Derivatives* (**ND**): l’opera non può
    essere alterata o modificata dall’utente in nessun modo, né
    utilizzata per crearne una simile. È alternativa alla SA;
 
--  Non commerciale/\ *Non Commercial* (**NC**): l’opera non può essere
+-  Non commerciale/*Non Commercial* (**NC**): l’opera non può essere
    sfruttata dall’utente per fini commerciali;
 
--  Condividi allo stesso modo/\ *Share Alike* (**SA**): l’opera può
+-  Condividi allo stesso modo/*Share Alike* (**SA**): l’opera può
    essere modificata e può circolare solo per il tramite di una licenza
    equivalente a quella originaria. È alternativa alla ND.
 
@@ -760,8 +770,8 @@ compreso quello di attribuzione espressa (BY). In questo modo l’opera
 entra nel pubblico dominio non già in seguito alla scadenza dei termini
 di protezione, bensì per scelta volontaria del suo autore.
 
-Come definire una lista di priorità per pubblicare i dati in formato
-aperto?
+Come definire una lista di priorità per pubblicare i dati in formato aperto?
+----------------------------------------------------------------------------
 
 La strategia nazionale per gli *open data* delineata a partire dal 2017
 nel “Piano Triennale per l’informatica nella PA” suggerisce un percorso
@@ -802,6 +812,7 @@ data*, tra quelle detenute dagli Istituti centrali e dalle Direzioni
 generali.
 
 Cosa sono le ontologie e a cosa servono?
+----------------------------------------
 
 In informatica, un'ontologia è una rappresentazione formale, condivisa
 ed esplicita di una concettualizzazione di un dominio di interesse. Il
@@ -837,7 +848,8 @@ nell'ordine:
    Library on Congress, ICOM, Europeana)
 
 4. usare altre ontologie che siano pubblicate su siti istituzionali, ben
-   documentate e, preferibilmente, disponibili in almeno due lingue.
+   documentate e, preferibilmente, e la documentazione disponibile
+   almeno due lingue.
 
 L’utilizzo di una rete di ontologie standard può facilitare la creazione
 di collegamenti tra dati, portando alla costruzione di una grande base
@@ -849,6 +861,7 @@ rimanda allo schema descritto da AgID all’indirizzo:
 https://docs.italia.it/italia/daf/lg-patrimonio-pubblico/it/stabile/arch.html#id1.
 
 Quali sono gli standard di riferimento per il settore pubblico?
+---------------------------------------------------------------
 
 I principali standard di riferimento per l’architettura
 dell’informazione del settore pubblico derivano dalle esperienze
@@ -869,14 +882,14 @@ Tali standard sono ampiamente documentati sul web e descritti anche
 nelle Linee guida AgID [6]_.
 
 Cos’è il portale dati.gov.it?
-
+-----------------------------
 Ai sensi dell’articolo 1 comma 8 del D.Lgs. 18 maggio 2015, n.102, il
 portale nazionale dei dati aperti (dati.gov.it) è l’unico riferimento
 per la documentazione e la ricerca di tutti i dati aperti della pubblica
 amministrazione. Esso, inoltre, è l’unico ad abilitare il colloquio con
 l’analogo portale europeo. Il portale nazionale dei dati aperti include
 i metadati, conformi al profilo DCAT-AP_IT, che descrivono i dati aperti
-delle amministrazioni. Le amministrazioni sono tenute pertanto a
+delle amministrazioni. Le amministrazioni sono tenute, pertanto, a
 inserire e a mantenere aggiornati, attraverso le modalità di
 alimentazione previste dal catalogo, tali metadati. I dati primari, il
 cui riferimento è pubblicato sul portale nazionale, rimangono presso il
@@ -888,9 +901,9 @@ portale nazionale dei dati.
 
 Il MiC assicura il conferimento dei propri dati aperti a dati.gov.it
 attraverso il proprio Catalogo dei dati pubblicato sul sito
-https://dati.beniculturali.it.
+https://dati.cultura.gov.it.
 
-Il portale dati.gov.it predispone i metadati per l’\ *harvesting* da
+Il portale dati.gov.it predispone i metadati per l’*harvesting* da
 parte del portale europeo e prevede una funzionalità di *harvesting*
 periodica (con frequenza settimanale) e automatizzata verso i cataloghi
 dei dati aperti delle altre amministrazioni.
@@ -902,12 +915,13 @@ del processo di alimentazione del catalogo nazionale dati.gov.it. Il
 modello di *governance* prevede di avvalersi dei principi di
 sussidiarietà verticale, già in precedenza menzionati. I meccanismi di
 alimentazione del portale nazionale abilitano, di fatto, una federazione
-tra portali di pubbliche amministrazioni\ :sup:`7`.
+tra portali di pubbliche amministrazioni :sup:`7`.
 
-Cos’è il portale dati.beniculturali.it?
+Cos’è il portale dati.cultura.gov.it?
+-------------------------------------
 
-Il sito https://dati.beniculturali.it è il portale dove sono pubblicati
-i dati aperti del Ministero della cultura, la cui manutenzione è stata
+Il sito https://dati.cultura.gov.it è il portale dove sono pubblicati i
+dati aperti del Ministero della cultura, la cui manutenzione è stata
 affidata dalla DG Organizzazione all’Istituto Centrale per il Catalogo e
 la Documentazione. Dal portale è possibile interrogare l’endpoint SPARQL
 dove sono accessibili i *linked open data* (LOD) prodotti dal MiC. I
@@ -921,24 +935,15 @@ piattaforma è essenzialmente un’interfaccia sperimentale
 machine-to-machine (m2m) che offre *linked open data* interrogabili via
 endpoint SPARQL.
 
+.. [1] https://docs.italia.it/italia/daf/lg-patrimonio-pubblico/it/stabile/index.html.
 
-.. [1]
+.. [2] https://dvcs.w3.org/hg/gld/raw-file/default/glossary/index.html#x5-star-linked-open-data
 
-   https://docs.italia.it/italia/daf/lg-patrimonio-pubblico/it/stabile/index.html.
+.. [3] https://ec.europa.eu/info/strategy/priorities-2019-2024/europe-fit-digital-age/european-data-strategy_it
 
-.. [2]
+.. [4] https://creativecommons.it/chapterIT/
 
-   https://dvcs.w3.org/hg/gld/raw-file/default/glossary/index.html#x5-star-linked-open-data
-
-.. [3]
-
-   https://ec.europa.eu/info/strategy/priorities-2019-2024/europe-fit-digital-age/european-data-strategy_it
-
-.. [4]
-    https://creativecommons.it/chapterIT/
-
-.. [5]
-    In particolare il MiC collabora ad OntoPiA con le ontologie: 1)
+.. [5] In particolare il MiC collabora ad OntoPiA con le ontologie: 1)
    Cultural-ON per la modellazione dei dati relativi agli Istituti della
    Cultura e agli eventi culturali; 2) ArCo, rete di ontologie per la
    modellazione dei beni culturali afferenti ai beni archeologici,
@@ -947,18 +952,9 @@ endpoint SPARQL.
    storico-artistici, strumenti musicali.
 
 .. [6]
-
    https://docs.italia.it/italia/daf/lg-patrimonio-pubblico/it/stabile/arch.html#standard-di-riferimento
 
 .. |image0| image:: ./media/image4.png
-   :width: 4.77778in
-   :height: 2.44861in
 .. |Figura 7: Licenze aperte e non aperte per i dataset| image:: ./media/image5.png
-   :width: 5.25969in
-   :height: 3.91667in
 .. |image2| image:: ./media/image6.png
-   :width: 5.19676in
-   :height: 2.66848in
 .. |image3| image:: ./media/image7.png
-   :width: 2.17222in
-   :height: 0.80903in

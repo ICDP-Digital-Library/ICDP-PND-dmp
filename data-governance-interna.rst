@@ -1,11 +1,11 @@
-3. Data governance interna
-==========================
+Data governance interna
+=======================
 
-Al fine di una corretta redazione del DMP, è necessario che ogni
-Istituto della cultura definisca una chiara *data governance* interna,
-con l’individuazione di ruoli e responsabilità, che tenga conto dei
-processi consolidati e delle necessità dei diversi uffici. L’Agenzia per
-l’Italia Digitale (AgID) nelle già citate *Linee guida nazionali per la
+Per una corretta redazione del DMP, è necessario che ogni Istituto della
+cultura definisca una chiara *data governance* interna, con
+l’individuazione di ruoli e responsabilità, che tenga conto dei processi
+consolidati e delle necessità dei diversi uffici. L’Agenzia per l’Italia
+Digitale (AgID) nelle già citate *Linee guida nazionali per la
 valorizzazione del patrimonio informativo pubblico*, delinea la
 struttura di un possibile gruppo di lavoro che opera in parte a livello
 centrale e in parte in ogni ufficio per gestire il processo di gestione
@@ -54,10 +54,10 @@ di dati e risorse digitali:
    centrali del MiC.
 
 -  **Curatore dei dati (o Digital Data Curator):** è la figura che ha la
-   responsabilità del processo creazione dei dati, dalla selezione dei
-   più opportuni modelli di metadatazione, nonché delle procedure per la
-   preservazione dei dati in vista dell’accesso e del riuso, anche sul
-   lungo periodo.
+   responsabilità del processo di creazione dei dati, dalla selezione
+   dei più opportuni modelli di metadatazione, nonché delle procedure
+   per la preservazione dei dati in vista dell’accesso e del riuso,
+   anche sul lungo periodo.
 
 Le figure sopra descritte dovranno poi coordinarsi con i seguenti gruppi
 di lavoro e uffici definiti ai livelli più alti della *governance*:
@@ -69,10 +69,10 @@ di lavoro e uffici definiti ai livelli più alti della *governance*:
    interfacce d’accesso ai dati, di promozione di applicazioni e servizi
    digitali sviluppate a partire dai dati pubblicati. Si occupa della
    formazione tecnica e concettuale all’interno dell’amministrazione sui
-   temi legati al paradigma Open Data, anche sulla base delle linee
+   temi legati al paradigma *Open Data*, anche sulla base delle linee
    guida pubblicate dall’Agenzia per l’Italia Digitale. Alcuni membri
    del *team* (e.g., esperti di tecnologie Web, esperti GIS, esperti di
-   tecnologie e strumenti per i Linked Data) possono occuparsi della
+   tecnologie e strumenti per i *Linked Data*) possono occuparsi della
    gestione del processo di apertura del dato dal punto di vista IT.
 
 -  **Ufficio giuridico-amministrativo:** fornisce consulenza su aspetti

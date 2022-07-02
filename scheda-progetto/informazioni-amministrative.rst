@@ -1,32 +1,34 @@
-7.1. Informazioni amministrative
-********************************
+Informazioni amministrative
+===========================
 
 La prima sezione della scheda progetto contiene le informazioni generali
 e amministrative relative al progetto, che devono essere definite e rese
 accessibili per garantire la corretta gestione della banca dati.
 Definisce inoltre la *data governance* del progetto, attribuendo in modo
-chiaro le responsabilità sulla base delle Linee guida AgID [6]_.
+chiaro le responsabilità sulla base delle Linee guida AgID [1]_.
 
 In alcuni casi, specie negli istituti più piccoli, è possibile che a una
 stessa persona vengano attribuite responsabilità multiple.
 
 Di seguito sono elencate le principali informazioni amministrative che
-**vanno** descritte nel DMP, con l’indicazione della responsabilità
-nella compilazione.
+vanno descritte nel DMP, con l’indicazione della responsabilità nella
+compilazione.
 
-7.1.1. Identificazione del progetto
-***********************************
+Identificazione del progetto
+----------------------------
 
 **Nome del progetto** ⓘ: nome del progetto ed eventuale acronimo.
 
 **Codice progetto** ⓓ: al progetto può essere assegnato un
 identificatore univoco, in modo da riconoscere con precisione l’identità
-del progetto ed evitare possibili ambiguità. **Obiettivi del progetto**
-ⓘ: descrizione sintetica degli obiettivi che il progetto intende
-raggiungere, evidenziando la coerenza con quanto previsto dal PND.
+del progetto ed evitare possibili ambiguità.
 
-7.1.2. Ruoli e responsabilità ⓘ
-*****************************
+**Obiettivi del progetto** ⓘ: descrizione sintetica degli obiettivi che
+il progetto intende raggiungere, evidenziando la coerenza con quanto
+previsto dal PND.
+
+Ruoli e responsabilità ⓘ
+------------------------
 
 **Responsabilità del progetto** ⓘ: indicazione dei nominativi delle
 persone che rivestono i vari ruoli definiti (responsabile del progetto,
@@ -36,7 +38,7 @@ data curator*).
 
 **Ulteriori ruoli di gestione dei dati** ⓘ: indicazione dei nominativi
 degli ulteriori ruoli e responsabilità previsti nella gestione dei dati
-e metadati del progetto. In relazioni alle varie fasi in cui si articola
+e metadati del progetto. In relazione alle varie fasi in cui si articola
 il progetto, può inoltre essere utile descrivere le responsabilità dei
 vari ruoli in maniera sintetica tramite una matrice cosiddetta “RACI”,
 come segue:
@@ -65,9 +67,11 @@ progetto.
 
 .. _section-1:
 
-.. [6] Linee guida nazionali per la valorizzazione del patrimonio
+.. [1] Linee guida nazionali per la valorizzazione del patrimonio
    informativo pubblico, “Aspetti organizzativi e qualità dei dati”.
    Agenzia per l’Italia Digitale. 2017.
-   `<https://docs.italia.it/italia/daf/lg-patrimonio-pubblico/it/stabile/aspettiorg.html>`_
+   https://docs.italia.it/italia/daf/lg-patrimonio-pubblico/it/stabile/aspettiorg.html
 
 .. |image0| image:: ../media/image2.jpeg
+   :width: 5.375in
+   :height: 2.71875in

@@ -1,5 +1,5 @@
-1. Cos’è il DMP e a che cosa serve
-===================================
+Cos’è il DMP e a che cosa serve
+===============================
 
 I DMP sono strumenti che permettono di raccogliere informazioni su come
 i dati vengono acquisiti, descritti, elaborati, gestiti, definendone i
@@ -15,7 +15,7 @@ riuso. Il DMP definisce inoltre ruoli e responsabilità durante l'intero
 ciclo di vita dei dati e, nei sistemi complessi, ha l’ulteriore finalità
 di ottimizzare la produzione dei dati e razionalizzarne la gestione, in
 ossequio al principio *once only* applicato alla creazione del
-dato [2]_.
+dato [1]_.
 
 Il piano di gestione dei dati consente agli istituti di pianificare,
 documentare fin dall’inizio e successivamente monitorare la gestione dei
@@ -53,20 +53,20 @@ conservazione di materiali digitali. Ciò è importante anche in
 prospettiva futura, nel caso fosse necessario recuperare queste
 informazioni nel tempo.
 
-Il DMP consente inoltre di verificare e il rispetto dei requisiti
-giuridici e legali, considerare e prevenire eventuali rischi e criticità
-legate alla conservazione dei dati, e valutare le politiche di accesso e
-condivisione dei dati, tenendo traccia delle decisioni prese e delle
-soluzioni adottate. In questo modo, è possibile riconoscere e affrontare
-le problematiche tecniche e legali fin dall’inizio del progetto di
-ricerca (open source, database, licenze d’uso, tutela del diritto
-d’autore, ecc.).
+Il DMP consente inoltre di verificare il rispetto dei requisiti
+giuridici e legali, di considerare e prevenire eventuali rischi e
+criticità legate alla conservazione dei dati, e di valutare le politiche
+di accesso e condivisione dei dati, tenendo traccia delle decisioni
+prese e delle soluzioni adottate. In questo modo, è possibile
+riconoscere e affrontare le problematiche tecniche e legali fin
+dall’inizio del progetto di ricerca (open source, database, licenze
+d’uso, tutela del diritto d’autore, ecc.).
 
-È in ogni caso consigliabile aggiornare il DMP ogni volta che si ritiene
-necessario rivalutare le decisioni prese in precedenza. Nel corso del
-progetto possono infatti emergere nuovi requisiti che non erano stati
-previsti all’inizio. In questo senso, il DMP è un documento vivo e
-dinamico.
+È in ogni caso consigliabile documentare nel DMP i cambiamenti e gli
+aggiornamenti tecnici del progetto ogni volta che si ritiene necessario
+rivalutare le decisioni prese in precedenza. Nel corso del progetto
+possono infatti emergere nuovi requisiti che non erano stati previsti
+all’inizio. In questo senso, il DMP è un documento vivo e dinamico.
 
 Concludendo, il DMP è uno strumento:
 
@@ -80,7 +80,7 @@ Concludendo, il DMP è uno strumento:
    attori che prendono parte al processo di produzione e gestione dei
    dati.
 
-.. [2] Il dato va prodotto una sola volta, deve essere conservato in
+.. [1] Il dato va prodotto una sola volta, deve essere conservato in
    un'unica posizione, ne va garantita la qualità e l’aggiornamento e
    tutti gli uffici del MiC lo utilizzano. Questo è particolarmente
    utile nella gestione delle cosiddette anagrafiche degli istituti

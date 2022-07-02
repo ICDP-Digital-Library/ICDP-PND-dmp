@@ -23,7 +23,7 @@ redazione del DMP.
 -  Decreto legislativo 14 marzo 2013, n. 33 – Riordino della disciplina
    riguardante il diritto di accesso civico e gli obblighi di
    pubblicità, trasparenza e diffusione di informazioni da parte delle
-   pubbliche amministrazioni  (Decreto trasparenza)
+   pubbliche amministrazioni  (Decreto trasparenza)
 
 -  Decreto legislativo 18 maggio 2015, n.102 – Attuazione della
    direttiva 2013/37/UE relativa al riutilizzo di documenti nel settore
@@ -66,7 +66,7 @@ redazione del DMP.
 
 -  Comunicazione della Commissione al Parlamento europeo, al Consiglio,
    al Comitato economico e sociale europeo e al Comitato delle regioni
-   COM(2020)  del 19 febbraio 2020 – Una strategia europea per i dati
+   COM(2020)  del 19 febbraio 2020 – Una strategia europea per i dati
 
 -  Conclusioni del Consiglio del 21 maggio 2014 relative al patrimonio
    culturale come risorsa strategica per un'Europa sostenibile
@@ -78,7 +78,7 @@ redazione del DMP.
 
 *Linee guida nazionali*
 
--  Agenzia per l’Italia Digitale,\ * Linee guida nazionali per la
+-  Agenzia per l’Italia Digitale,* Linee guida nazionali per la
    valorizzazione del patrimonio informativo pubblico*,
    https://docs.italia.it/italia/daf/lg-patrimonio-pubblico/it/
 

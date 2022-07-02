@@ -1,5 +1,5 @@
-7.4. Qualità dei dati e documentazione
-======================================
+Qualità dei dati e documentazione
+=================================
 
 Questa sezione descrive gli approcci per assicurare la qualità dei dati
 (convenzioni di denominazione dei file, revisione, vocabolari
@@ -11,10 +11,8 @@ Di seguito sono indicati gli aspetti relativi alla qualità dei dati che
 è opportuno descrivere nel DMP, e per ognuno è indicata la
 responsabilità nella compilazione.
 
-.. _section-6:
-
-7.4.1. Analisi della qualità dei dati ⓘ ⓓ
-******************************************
+Analisi della qualità dei dati ⓘ ⓓ
+----------------------------------
 
 Secondo la norma ISO 9000:2015, la qualità è la totalità degli elementi
 e delle caratteristiche di un prodotto o servizio che concorrono alla
@@ -36,14 +34,14 @@ Determinazione Commissariale dell’Agenzia per l’Italia Digitale n.
 con riferimento allo standard ISO, a supporto delle attività di
 valutazione della qualità dei dati delle amministrazioni [1]_. Nel DMP è
 opportuno descrivere le modalità di analisi della qualità dei dati
-adottate nel progetto, e in particolare, quale standard è stato adottato
-per valutare la qualità dei dati; quali misure di qualità dei dati sono
-in uso e per ogni misura, in che modo viene eseguita la misurazione. In
-caso di tipologie di dati multiple, queste informazioni devono essere
-riportate per ogni specifica tipologia.
+adottate nel progetto, e, in particolare, quale standard è stato
+adottato per valutare la qualità dei dati; quali misure di qualità dei
+dati sono in uso e per ogni misura, in che modo viene eseguita la
+misurazione. In caso di tipologie di dati multiple, queste informazioni
+devono essere riportate per ogni specifica tipologia.
 
-7.4.2. Bonifica dei dati ⓘ
-***************************
+Bonifica dei dati ⓘ
+-------------------
 
 Generalmente l’analisi della qualità del dato può richiedere una fase di
 bonifica: i dati all’interno dei sistemi informativi o degli archivi di
@@ -81,8 +79,8 @@ particolare:
 In caso di tipologie di dati multiple, queste informazioni devono essere
 riportate per ogni specifica tipologia.
 
-7.4.3. Nomenclatura degli oggetti digitali ⓘ ⓒ
-***********************************************
+Nomenclatura degli oggetti digitali ⓘ ⓒ
+---------------------------------------
 
 Le convenzioni per nominare i file sono importanti per descrivere ciò
 che contengono e come si relazionano ad altri file. Lo sviluppo di una
@@ -94,16 +92,16 @@ progetto, il nome di una sezione o una sottosezione del progetto, la
 versione del file, ecc. Un vantaggio nell'usare nomi di file unici e
 standardizzati è la capacità di seguire i nomi dei percorsi e collegarsi
 ad altri sistemi che richiedono nomi di file unici. Le indicazioni per
-la nomenclatura degli oggetti digitali sono riportate nel Capitolo VI
+la nomenclatura degli oggetti digitali sono riportate nel Capitolo 5
 delle *Linee guida per la digitalizzazione del patrimonio culturale*.
 
 Nel DMP è opportuno descrivere la metodologia utilizzata per assegnare i
-nomi dei file, spiegando in che in che modo è implementata e quali
-software sono utilizzati per assegnare i nomi dei file. Inoltre, è
-importante indicare la modalità di costruzione del codice oggetto (che
-costituisce la parte variabile del nome) e la provenienza degli
-identificativi presenti nel codice oggetto (es. SBN). In caso di
-metodologie di nomenclatura multiple, sarà opportuno riportare queste
-informazioni per ogni specifica metodologia adottata.
+nomi dei file, spiegando in che modo è implementata e quali software
+sono utilizzati per assegnare i nomi dei file. Inoltre, è importante
+indicare la modalità di costruzione del codice oggetto (che costituisce
+la parte variabile del nome) e la provenienza degli identificativi
+presenti nel codice oggetto (es. SBN). In caso di metodologie di
+nomenclatura multiple, sarà opportuno riportare queste informazioni per
+ogni specifica metodologia adottata.
 
-.. [1] `<https://docs.italia.it/italia/daf/lg-patrimonio-pubblico/it/stabile/aspettiorg.html#qualita-dei-dati>`_
+.. [1] https://docs.italia.it/italia/daf/lg-patrimonio-pubblico/it/stabile/aspettiorg.html#qualita-dei-dati
