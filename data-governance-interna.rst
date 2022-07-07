@@ -1,3 +1,5 @@
+.. _data_governance_interna:
+
 Data governance interna
 =======================
 

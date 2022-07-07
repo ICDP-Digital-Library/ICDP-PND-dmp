@@ -1,3 +1,5 @@
+.. _open_data:
+
 Open data 
 =========
 
@@ -61,7 +63,7 @@ identificatori, come vengono costruiti e qual è il nome di dominio di
 riferimento.
 
 Nel caso che il sistema locale adotti un modello “integrato” con
-l’infrastruttura dati nazionale (cfr. par. 7.7.2 del presente documento
+l’infrastruttura dati nazionale (cfr. par. :ref:`pubblicazione_dei_dati` del presente documento
 e par. 2.1.a del PND) gli URI verranno definiti nell’infrastruttura
 stessa; nel caso dell’adozione di un modello “federato” gli URI dovranno
 essere indicati dal singolo istituto.

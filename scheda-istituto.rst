@@ -7,7 +7,7 @@ alla produzione e gestione dei dati previste dalle Linee guida AgID.
 Questa scheda contiene esclusivamente le informazioni amministrative
 relative all’istituto. Lo scopo principale della scheda è tenere traccia
 dei ruoli che sono stati assegnati a livello generale e non variano a
-seconda dello specifico progetto (cfr. cap. 3).
+seconda dello specifico progetto (cfr. cap. :ref:`data_governance_interna`).
 
 È possibile riutilizzare la medesima scheda istituto per più progetti.
 Per i dettagli sui vari ruoli, di norma, non è quindi necessario

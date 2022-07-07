@@ -39,4 +39,4 @@ strumenti operativi per rendere la compilazione dei DMP un metodo
 sistematico per presentare e accompagnare i progetti di
 digitalizzazione.
 
-.. [1] Cfr.  https://www.dati.gov.it/linee-guida-valorizzazione-patrimonio-informativo-pubblico.
+.. [1] Cfr. https://www.dati.gov.it/linee-guida-valorizzazione-patrimonio-informativo-pubblico.

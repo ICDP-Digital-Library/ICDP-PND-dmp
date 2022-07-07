@@ -4,6 +4,8 @@ Archiviazione, pubblicazione e preservazione dei dati
 Questa sezione descrive le procedure per l'archiviazione, la
 pubblicazione e la preservazione a lungo termine dei dati del progetto.
 
+.. _archiviazione_dei_dati:
+
 Archiviazione dei dati ⓘ
 ------------------------
 
@@ -26,6 +28,8 @@ elaborato la Strategia Cloud Italia [3]_ contenente gli indirizzi
 strategici per il percorso di migrazione verso il cloud di dati e
 servizi digitali della Pubblica Amministrazione.
 
+.. _Infrastruttura nazionale dei dati del patrimonio culturale: https://docs.italia.it/italia/icdp/icdp-pnd-docs/it/giugno-2022/strategia/tecnologie_abilitanti.html#infrastruttura-nazionale-dei-dati-del-patrimonio-culturale
+
 Coerentemente con questi orientamenti, per garantire l’archiviazione e
 la preservazione nel tempo dei dati del patrimonio culturale, il
 Ministero nell’ambito dell’investimento M1C3 1.1 “*Digital Strategy
@@ -36,7 +40,7 @@ l'orchestrazione di servizi e procedure, finalizzata alla raccolta,
 conservazione, organizzazione e distribuzione delle risorse digitali
 della cultura, in linea con le strategie europee e con le indicazioni
 del piano triennale dell’informatica nella PA. L’infrastruttura software
-(cfr. par. 2.1.a del PND) costituirà il nucleo centrale di una rete di
+(cfr. par. `Infrastruttura nazionale dei dati del patrimonio culturale`_ del PND) costituirà il nucleo centrale di una rete di
 sistemi, anche esterni, la cui interconnessione aggiunge valore ai
 diversi sistemi singolarmente considerati. Allo stesso modo
 l’infrastruttura consentirà l’interconnessione trasversale dei contenuti
@@ -73,6 +77,8 @@ del progetto, è opportuno comunque definire:
 -  le modalità di conservazione dei dataset
 
 -  il responsabile della gestione dei dataset.
+
+.. _pubblicazione_dei_dati:
 
 Pubblicazione dei dati ⓘ ⓓ
 --------------------------
@@ -114,7 +120,7 @@ Pertanto, in questa sezione del DMP occorre indicare:
    Amministrazione [5]_
 
 -  se è prevista o meno la pubblicazione nel portale nazionale
-   https://dati.cultura.gov.it (cfr. par. 7.5), di quali dati e con
+   https://dati.cultura.gov.it (cfr. par. :ref:`open_data`), di quali dati e con
    quali modalità e temporalità (conferimenti manuali o *harvesting*).
 
 Inoltre, poiché ogni interfaccia utente ha generalmente un suo *backend*
@@ -133,7 +139,7 @@ di gestione, nel DMP va inoltre indicato:
    indirizzo IP)
 
 -  in che modo il portale/sito web si relaziona con l’infrastruttura
-   software del patrimonio culturale (cfr. par. 7.7.1)
+   software del patrimonio culturale (cfr. par. :ref:`archiviazione_dei_dati`)
 
 -  in caso di utilizzo dell’infrastruttura software del patrimonio
    culturale gestita dall’ICDP, qual è il modello di interazione
@@ -170,7 +176,7 @@ a lungo termine dei dati, e in particolare:
 
 -  con quali modalità si prevede di far fronte ai rischi di cui sopra.
 
-.. _section-8:
+.. _procedure_di_backup:
 
 Procedure di *backup* ⓘ ⓓ
 -------------------------

@@ -71,8 +71,8 @@ dispositivi, una valutazione continua delle vulnerabilità per far fronte
 a nuovi possibili rischi, un uso appropriato dei privilegi di accesso e
 la protezione da *malware*. Sono inoltre previste altre due attività
 molto importanti, ovvero l’esecuzione di copie di *backup* (cfr. par.
-7.7.5) e la protezione dei dati soggetti a vincoli di riservatezza (si
-cfr. Par. 7.8.4).
+:ref:`procedure_di_backup`) e la protezione dei dati soggetti a vincoli di riservatezza (si
+cfr. par. :ref:`sicurezza_dei_dati_personali`).
 
 In questa sezione del DMP è opportuno riportare:
 
@@ -106,7 +106,9 @@ prevedono:
 
 -  qualunque altro rischio per la sicurezza dei dati non elencato sopra.
 
-Sicurezza dei dati sensibili ⓘ
+.. _sicurezza_dei_dati_personali:
+
+Sicurezza dei dati personali ⓘ
 ------------------------------
 
 Nel caso di pubblicazione di dati soggetti al Regolamento sulla
@@ -122,7 +124,7 @@ pseudonimizzazione dei dati.
 In questa sezione del DMP occorre quindi indicare:
 
 -  quali misure vengono adottate nel progetto per garantire la sicurezza
-   dei dati sensibili
+   dei dati personali
 
 -  quali forme di controllo degli accessi sono previste
 

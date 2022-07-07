@@ -10,12 +10,13 @@ valorizzazione [1]_.
 Come previsto nel PND, il Ministero della Cultura (MiC) ha **tre livelli
 di governance** nella gestione dei dati:
 
+.. _Infrastruttura nazionale dei dati del patrimonio culturale: https://docs.italia.it/italia/icdp/icdp-pnd-docs/it/giugno-2022/strategia/tecnologie_abilitanti.html#infrastruttura-nazionale-dei-dati-del-patrimonio-culturale
+
 -  **Direzioni generali**: l’Istituto centrale per la digitalizzazione
    del patrimonio culturale (di seguito ICDP o Digital Library), in
    accordo con le Direzioni generali, definisce le *policy* per i dati
    del Ministero e si occupa della gestione dell’infrastruttura
-   nazionale dei dati del patrimonio culturale (cfr. par. 2.1.a del
-   PND), curando l’accesso e la conservazione a lungo termine degli
+   nazionale dei dati del patrimonio culturale (cfr. par. `Infrastruttura nazionale dei dati del patrimonio culturale`_ del PND), curando l’accesso e la conservazione a lungo termine degli
    oggetti digitali;
 
 -  **Istituti centrali**: raccolgono e gestiscono i dati a livello
@@ -63,7 +64,9 @@ avvierà una fase di sperimentazione alla fine della quale il modello
 potrà essere implementato in un *web tool* che verrà messo a
 disposizione degli Istituti.
 
-.. [1] Cfr. il paragrafo 2.2.a del Piano nazionale di digitalizzazione.
+.. _Digitalizzazione e ciclo di vita della risorsa digitale: https://docs.italia.it/italia/icdp/icdp-pnd-docs/it/giugno-2022/strategia/processi.html#digitalizzazione-e-ciclo-di-vita-della-risorsa-digitale
+
+.. [1] Cfr. par. `Digitalizzazione e ciclo di vita della risorsa digitale`_ del Piano nazionale di digitalizzazione.
 
 .. [2] Il *data harvesting* è un processo in cui uno script viene
    utilizzato per estrarre automaticamente una grande quantità di dati

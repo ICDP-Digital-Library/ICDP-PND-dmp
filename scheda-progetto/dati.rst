@@ -93,11 +93,13 @@ l’archivio dei file sorgenti.
 Quantità di dati prevista ⓘ
 ---------------------------
 
+.. _Infrastruttura nazionale dei dati del patrimonio culturale: https://docs.italia.it/italia/icdp/icdp-pnd-docs/it/giugno-2022/strategia/tecnologie_abilitanti.html#infrastruttura-nazionale-dei-dati-del-patrimonio-culturale
+
 È importante stimare fin dall'inizio del progetto la quantità di dati
 che si prevede di raccogliere, o almeno il loro ordine di grandezza. In
 base alla quantità di dati indicata, potranno essere previsti diversi
 profili di configurazione, con riferimento anche al conferimento alla
 costituenda infrastruttura nazionale dei dati del patrimonio culturale
-(cfr. par. 2.1.a del PND).
+(cfr. par. `Infrastruttura nazionale dei dati del patrimonio culturale`_ del PND).
 
 .. [1] https://docs.italia.it/italia/daf/lg-patrimonio-pubblico/it/stabile/arch.html#formati-aperti-per-i-dati-e-documenti

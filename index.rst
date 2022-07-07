@@ -14,15 +14,10 @@ Piano nazionale di digitalizzazione del patrimonio culturale
 
 .. toctree::
   :maxdepth: 3
+  :numbered:
   :caption: Indice dei contenuti
 
-  crediti.rst
   introduzione.rst
-
-.. toctree::
-  :maxdepth: 3
-  :numbered:
-
   cose-il-dmp-e-a-che-cosa-serve.rst
   il-dmp-nel-piano-nazionale-di-digitalizzazione.rst
   data-governance-interna.rst
@@ -32,6 +27,7 @@ Piano nazionale di digitalizzazione del patrimonio culturale
   strumenti-per-la-compilazione-del-dmp.rst
   normativa-di-riferimento.rst
   allegato-faq-per-la-pubblicazione-dei-dati-aperti.rst
+  crediti.rst
 
 .. |image0| image:: ./media/image1.png
    :width: 1.55347in
