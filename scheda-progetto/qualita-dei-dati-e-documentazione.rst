@@ -81,6 +81,9 @@ riportate per ogni specifica tipologia.
 
 Nomenclatura degli oggetti digitali ⓘ ⓒ
 ---------------------------------------
+.. _Nomenclatura degli oggetti digitali: https://docs.italia.it/italia/icdp/icdp-pnd-digitalizzazione-docs/it/giugno-2022/nomenclatura-degli-oggetti-digitali.html
+
+.. _Linee guida per la digitalizzazione del patrimonio culturale: https://docs.italia.it/italia/icdp/icdp-pnd-digitalizzazione-docs
 
 Le convenzioni per nominare i file sono importanti per descrivere ciò
 che contengono e come si relazionano ad altri file. Lo sviluppo di una
@@ -92,8 +95,7 @@ progetto, il nome di una sezione o una sottosezione del progetto, la
 versione del file, ecc. Un vantaggio nell'usare nomi di file unici e
 standardizzati è la capacità di seguire i nomi dei percorsi e collegarsi
 ad altri sistemi che richiedono nomi di file unici. Le indicazioni per
-la nomenclatura degli oggetti digitali sono riportate nel Capitolo 5
-delle *Linee guida per la digitalizzazione del patrimonio culturale*.
+la nomenclatura degli oggetti digitali sono riportate nel Capitolo `Nomenclatura degli oggetti digitali`_ delle `Linee guida per la digitalizzazione del patrimonio culturale`_.
 
 Nel DMP è opportuno descrivere la metodologia utilizzata per assegnare i
 nomi dei file, spiegando in che modo è implementata e quali software

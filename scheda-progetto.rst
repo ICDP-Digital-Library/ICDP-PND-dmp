@@ -46,7 +46,6 @@ scheda progetto.
 
 .. toctree::
   :maxdepth: 3
-  :numbered:
   :caption: Indice dei contenuti
 
   scheda-progetto/informazioni-amministrative.rst
