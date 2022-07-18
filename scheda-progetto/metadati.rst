@@ -22,7 +22,7 @@ Livello di metadatazione ⓘ
 --------------------------
 
 Le linee guida AgID prevedono quattro possibili livelli di
-metadatazione [1]_, come descritto nella Fig. 1. Si consiglia di
+metadatazione [8]_, come descritto nella Fig. 1. Si consiglia di
 adottare il livello più alto che è tecnicamente possibile implementare.
 Il primo livello non include metadati, ed è quindi fortemente
 sconsigliato. Il secondo e il terzo livello hanno esclusivamente
@@ -31,8 +31,9 @@ associati internamente al dato stesso.
 
 |image0|
 
-*Fig. 1 – Livelli di metadatazione
-(fonte:*\ `https://docs.italia.it/italia/daf/lg-patrimonio-pubblico/it/stabile/_images/Metadati.png <https://docs.italia.it/italia/daf/lg-patrimonio-pubblico/it/stabile/_images/Metadati.png)>`__\ *)*
+*Figura 1 – Livelli di metadatazione*
+
+(fonte:\ `https://docs.italia.it/italia/daf/lg-patrimonio-pubblico/it/stabile/_images/Metadati.png <https://docs.italia.it/italia/daf/lg-patrimonio-pubblico/it/stabile/_images/Metadati.png)>`__\ *)*
 
 Metodologie per la metadatazione ⓘ
 ----------------------------------
@@ -64,7 +65,7 @@ Encoding and Transmission Standard*), che codifica i metadati
 descrittivi, amministrativi, tecnici e strutturali riguardanti le
 risorse digitali.
 
-.. [1] https://docs.italia.it/italia/daf/lg-patrimonio-pubblico/it/stabile/modellometadati.html#livelli-del-modello-per-i-metadati
+.. [8] Cfr. https://docs.italia.it/italia/daf/lg-patrimonio-pubblico/it/stabile/modellometadati.html#livelli-del-modello-per-i-metadati
 
 .. |image0| image:: ../media/image3.png
    :width: 5in

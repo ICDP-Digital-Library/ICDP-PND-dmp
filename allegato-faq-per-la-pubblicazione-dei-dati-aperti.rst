@@ -190,6 +190,8 @@ seguito mostrato:
 
 |image0|
 
+*Figura 1 – Livelli di metadatazione*
+
 La pubblicazione di dati di livello 1 e 2 non è più consentita; il MiC
 pertanto pubblicherà i dati in formato aperto almeno di livello 3\*
 mirando, nel tempo, a pubblicare solo dati di livello a 4\* e 5\*
@@ -374,6 +376,7 @@ aspetto, a cui rispondere con Sì o No.
 |                       | sia facilmente        |                       |
 |                       | riconducibile ad una  |                       |
 |                       | persona fisica?       |                       |
++-----------------------+-----------------------+-----------------------+
 +-----------------------+-----------------------+-----------------------+
 | **Proprietà           | Il dataset è stato    |                       |
 | intellettuale della   | creato da uno o più   |                       |
@@ -935,21 +938,17 @@ piattaforma è essenzialmente un’interfaccia sperimentale
 machine-to-machine (m2m) che offre *linked open data* interrogabili via
 endpoint SPARQL.
 
-.. [1] https://docs.italia.it/italia/daf/lg-patrimonio-pubblico/it/stabile/index.html.
+.. [1] Cfr. https://docs.italia.it/italia/daf/lg-patrimonio-pubblico/it/stabile/index.html.
 
-.. [2] https://dvcs.w3.org/hg/gld/raw-file/default/glossary/index.html#x5-star-linked-open-data
+.. [2] Cfr. https://dvcs.w3.org/hg/gld/raw-file/default/glossary/index.html#x5-star-linked-open-data
 
-.. [3] https://ec.europa.eu/info/strategy/priorities-2019-2024/europe-fit-digital-age/european-data-strategy_it
+.. [3] Cfr. https://ec.europa.eu/info/strategy/priorities-2019-2024/europe-fit-digital-age/european-data-strategy_it
 
-.. [4] https://creativecommons.it/chapterIT/
+.. [4] Cfr. https://creativecommons.it/chapterIT/
 
-.. [5] In particolare il MiC collabora ad OntoPiA con le ontologie: 1)
-   Cultural-ON per la modellazione dei dati relativi agli Istituti della
-   Cultura e agli eventi culturali; 2) ArCo, rete di ontologie per la
-   modellazione dei beni culturali afferenti ai beni archeologici,
-   architettonico-paesaggistici, demoetnoantropologici, fotografici,
-   naturalistici, numismatici, scientifico-tecnologici,
-   storico-artistici, strumenti musicali.
+.. [5] In particolare il MiC collabora ad OntoPiA con le ontologie: 1)Cultural-ON per la modellazione dei dati relativi agli Istituti della
+   Cultura e agli eventi culturali; 2) ArCo, rete di ontologie per la modellazione dei beni culturali afferenti ai beni archeologici,
+   architettonico-paesaggistici, demoetnoantropologici, fotografici, naturalistici, numismatici, scientifico-tecnologici, storico-artistici, strumenti musicali.
 
 .. [6]
    https://docs.italia.it/italia/daf/lg-patrimonio-pubblico/it/stabile/arch.html#standard-di-riferimento

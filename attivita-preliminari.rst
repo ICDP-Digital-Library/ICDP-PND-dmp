@@ -7,12 +7,12 @@ attività preliminari previste dalle Linee guida AgID, e in particolare:
 -  **Censimento dei dati**. All’interno dei singoli uffici o dei vari
    settori dell’amministrazione è necessario condurre il censimento
    delle banche dati e dei progetti di digitalizzazione, anche per
-   quelli in itinere o che riguardano il recupero di digitalizzazioni e
+   quelli *in itinere* o che riguardano il recupero di digitalizzazioni e
    dati pregressi. Dovranno essere raccolte informazioni in relazione
    alle caratteristiche dei dati archiviati o che verranno acquisiti,
    alla loro identificazione e descrizione. Il censimento deve
    individuare anche i formati dei dati e metadati, di alto e basso
-   livello (mets, DC, xml, json, db-relazionali, immagini JPG, TIFF,
+   livello (METS, DC, XML, Json, db-relazionali, immagini JPG, TIFF,
    tabelle, ecc.). Ciascun soggetto preposto alla gestione di una
    particolare base di dati indica poi al responsabile *Open Data*, tra
    le altre cose, le caratteristiche descrittive del dato, i tracciati
@@ -30,7 +30,7 @@ attività preliminari previste dalle Linee guida AgID, e in particolare:
    servizio equilibrato nel rispetto della funzione pubblica e dei
    diritti dei singoli individui. Essa evidenzia limitazioni d’uso,
    determinazione dei diritti e dei termini di licenza. AgID fornisce
-   una breve checklist [1]_, utile per verificare se tutti gli aspetti
+   una breve *checklist* [5]_, utile per verificare se tutti gli aspetti
    giuridici siano stati valutati.
 
 -  **Analisi delle politiche di accesso e licenza**. Altro aspetto
@@ -74,4 +74,4 @@ centrali, delle direzioni generali e della Digital Library. Di seguito,
 contributo degli Istituti centrali o direzioni generali, e con ⓓ il
 contributo della Digital Library.
 
-.. [1] Cfr. voce specifica nelle FAQ allegate.
+.. [5] Cfr. voce specifica nelle FAQ allegate.

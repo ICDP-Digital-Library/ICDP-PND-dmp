@@ -46,7 +46,7 @@ Tipologie e formati di dati ⓘ
 prodotti/raccolti nel progetto, e per ogni tipologia il formato in cui
 sono raccolti i dati, facendo riferimento al capitolo `Formati`_ delle *Linee
 guida per la digitalizzazione del patrimonio culturale* e alle linee
-guida AgID sui formati aperti per i dati e i documenti [1]_. L’uso dei
+guida AgID sui formati aperti per i dati e i documenti [7]_. L’uso dei
 formati consigliati dalle linee guida garantisce la migliore esecuzione
 del processo di digitalizzazione e della valorizzazione del bene.
 Inoltre, buona pratica per la conservazione a lungo termine di progetti
@@ -106,4 +106,4 @@ profili di configurazione, con riferimento anche al conferimento alla
 costituenda infrastruttura nazionale dei dati del patrimonio culturale
 (cfr. par. `Infrastruttura nazionale dei dati del patrimonio culturale`_ del PND).
 
-.. [1] https://docs.italia.it/italia/daf/lg-patrimonio-pubblico/it/stabile/arch.html#formati-aperti-per-i-dati-e-documenti
+.. [7] Cfr. https://docs.italia.it/italia/daf/lg-patrimonio-pubblico/it/stabile/arch.html#formati-aperti-per-i-dati-e-documenti

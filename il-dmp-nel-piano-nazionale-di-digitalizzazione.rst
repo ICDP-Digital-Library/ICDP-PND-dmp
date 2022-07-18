@@ -5,7 +5,7 @@ Il PND prevede che ciascun istituto, prima di intraprendere un progetto
 di digitalizzazione o la creazione di una banca dati, rediga il proprio
 Piano di gestione dei dati al fine di delineare come le risorse digitali
 saranno trattate in fase di acquisizione, processamento, conservazione e
-valorizzazione [1]_.
+valorizzazione [3]_.
 
 Come previsto nel PND, il Ministero della Cultura (MiC) ha **tre livelli
 di governance** nella gestione dei dati:
@@ -30,9 +30,9 @@ di governance** nella gestione dei dati:
    disposizione gratuitamente dagli Istituti centrali e/o dalle
    Direzioni generali, ovvero - nel caso di utilizzo di sistemi locali -
    trattano i dati secondo gli standard nazionali e li rendono
-   disponibili per le procedure di *data harvesting*  [2]_ svolte
+   disponibili per le procedure di *data harvesting*  [4]_ svolte
    dall’ICDP per la condivisione con l’infrastruttura nazionale dei dati
-   del patrimonio culturale;
+   del patrimonio culturale.
 
 Coerentemente con i tre livelli di *governance* descritti, e in
 relazione alle proprie caratteristiche e finalità, ciascun Istituto
@@ -40,7 +40,7 @@ redige i DMP dei progetti di cui è responsabile:
 
 -  l’ICDP gestirà i dati del MiC a livello apicale per la realizzazione
    della Digital Library della cultura italiana e per l’alimentazione
-   del repository di dati aperti dati.cultura.gov.it;
+   del *repository* di dati aperti dati.cultura.gov.it;
 
 -  a livello centrale il DMP sarà compilato dalle Direzioni generali e
    dagli Istituti centrali in relazione alla gestione dei dati raccolti
@@ -50,8 +50,8 @@ redige i DMP dei progetti di cui è responsabile:
    di digitalizzazione o di elaborazione dati di competenza.
 
 Esistono diversi modelli a cui ispirarsi per predisporre un piano di
-gestione dei dati e nell’ambito di progetti di ricerca nazionali e
-internazionali sono previsti *template* specifici o appositi *tool* da
+gestione dei dati e, nell’ambito di progetti di ricerca nazionali e
+internazionali, sono previsti *template* specifici o appositi *tool* da
 utilizzare prevalentemente online per la compilazione del piano. La
 struttura del DMP va sempre adattata al contesto specifico, ma le
 macro-categorie delle informazioni richieste sono comunque comuni ai
@@ -66,8 +66,6 @@ disposizione degli Istituti.
 
 .. _Digitalizzazione e ciclo di vita della risorsa digitale: https://docs.italia.it/italia/icdp/icdp-pnd-docs/it/giugno-2022/strategia/processi.html#digitalizzazione-e-ciclo-di-vita-della-risorsa-digitale
 
-.. [1] Cfr. par. `Digitalizzazione e ciclo di vita della risorsa digitale`_ del Piano nazionale di digitalizzazione.
+.. [3] Cfr. par. `Digitalizzazione e ciclo di vita della risorsa digitale`_ del Piano nazionale di digitalizzazione.
 
-.. [2] Il *data harvesting* è un processo in cui uno script viene
-   utilizzato per estrarre automaticamente una grande quantità di dati
-   di web site e/o di dataset per analizzarli per altri scopi.
+.. [4] Il *data harvesting* è un processo in cui uno *script* viene utilizzato per estrarre automaticamente una grande quantità di dati di website e/o di *dataset* per analizzarli per altri scopi.

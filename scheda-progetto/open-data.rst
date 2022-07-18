@@ -16,7 +16,7 @@ qualora un *dataset* non possa essere pubblicato in formato aperto, è
 necessario motivare le ragioni ostative. In questa sezione vengono
 descritti gli standard adottati per gli open data, la licenza
 selezionata per la pubblicazione dei dati e il rispetto dei principi
-FAIR (*Findable*, *Accessible*, *Interoperable*, *Reusable*) [1]_ che
+FAIR (*Findable*, *Accessible*, *Interoperable*, *Reusable*) [10]_ che
 garantiscono la reperibilità, accessibilità, interoperabilità e
 riutilizzabilità dei dati. I *dataset* del Ministero saranno metadatati
 e descritti secondo le indicazioni e i profili applicativi forniti da
@@ -39,7 +39,7 @@ Livello open data ⓘ
 -------------------
 
 Le **Linee guida AgID**, che riprendono la definizione di Open Data del
-W3C [2]_, prevedono cinque possibili livelli di open data, come mostrato
+W3C [11]_, prevedono cinque possibili livelli di open data, come mostrato
 nella voce corrispondete delle FAQ.
 
 Il MiC pubblicherà i dati in formato aperto almeno di livello 3\*
@@ -56,7 +56,7 @@ Identificatori ⓘ ⓓ
 In caso di *Open Data* di livello 4\* o 5*, è opportuno indicare nel DMP
 le metodologie adottate per la costruzione di URI (*Uniform Resource
 Identifier*) o IRI (*Internationalized Resource Identifier*) univoci e
-persistenti, facendo riferimento alle linee guida del W3C [3]_.
+persistenti, facendo riferimento alle linee guida del W3C [12]_.
 
 Nel DMP è importante descrivere in che modo vengono assegnati questi
 identificatori, come vengono costruiti e qual è il nome di dominio di
@@ -110,7 +110,7 @@ l’adozione delle tecnologie proprie del Web e dei Linked Open Data per
 migliorare l’interoperabilità e il riuso delle immagini. Il IIIF
 consiste in un insieme di documenti che compongono il *framework*. La
 definizione di questo ambiente si concentra al momento su sei documenti
-di specifica per la creazione di API [4]_ destinate alla descrizione,
+di specifica per la creazione di API [13]_ destinate alla descrizione,
 manipolazione e presentazione delle immagini, al controllo degli
 accessi, e a meccanismi per la ricerca e diffusione delle stesse. Tutti
 i documenti di specifica riusano e/o adattano data model esistenti per
@@ -182,15 +182,15 @@ base di conoscenza esistente, è opportuno descrivere in che modo è
 prevista la pubblicazione e in che modo è stata valutata la
 compatibilità delle licenze.
 
-.. [1] Wilkinson, M., Dumontier, M., Aalbersberg, I. et al. The FAIR
+.. [10] Wilkinson, M., Dumontier, M., Aalbersberg, I. et al. The FAIR
    Guiding Principles for scientific data management and stewardship.
    Sci Data 3, 160018 (2016). https://doi.org/10.1038/sdata.2016.18
 
-.. [2] https://dvcs.w3.org/hg/gld/raw-file/default/glossary/index.html#x5-star-linked-open-data
+.. [11] Cfr. https://dvcs.w3.org/hg/gld/raw-file/default/glossary/index.html#x5-star-linked-open-data
 
-.. [3] https://www.w3.org/TR/ld-bp/
+.. [12] Cfr. https://www.w3.org/TR/ld-bp/
 
-.. [4] I sei documenti di specifica per la creazione di API sono: Image API
+.. [13] I sei documenti di specifica per la creazione di API sono: Image API
    (https://iiif.io/api/image/3.0/), Presentation API
    (https://iiif.io/api/presentation/3.0/), Content Search API
    (https://iiif.io/api/search/1.0/), Authentication API

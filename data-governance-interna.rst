@@ -1,6 +1,6 @@
 .. _data_governance_interna:
 
-Data governance interna
+*Data governance* interna
 =======================
 
 Per una corretta redazione del DMP, è necessario che ogni Istituto della
@@ -27,7 +27,7 @@ di dati e risorse digitali:
 -  **Responsabile della banca dati**: è la figura che ha la
    responsabilità del procedimento amministrativo che popola la
    specifica fonte del dato, che ne cura la qualità e il relativo
-   aggiornamento;
+   aggiornamento.
 
 -  **Responsabile tecnico della banca dati**: è una figura coordinata
    dal responsabile della banca dati con conoscenze informatiche e con
@@ -56,7 +56,7 @@ di dati e risorse digitali:
    centrali del MiC.
 
 -  **Curatore dei dati (o Digital Data Curator):** è la figura che ha la
-   responsabilità del processo di creazione dei dati, dalla selezione
+   responsabilità del processo di creazione dei dati, della selezione
    dei più opportuni modelli di metadatazione, nonché delle procedure
    per la preservazione dei dati in vista dell’accesso e del riuso,
    anche sul lungo periodo.

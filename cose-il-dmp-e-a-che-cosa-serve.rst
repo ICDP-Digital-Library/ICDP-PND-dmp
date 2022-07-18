@@ -15,12 +15,11 @@ riuso. Il DMP definisce inoltre ruoli e responsabilità durante l'intero
 ciclo di vita dei dati e, nei sistemi complessi, ha l’ulteriore finalità
 di ottimizzare la produzione dei dati e razionalizzarne la gestione, in
 ossequio al principio *once only* applicato alla creazione del
-dato [1]_.
+dato [2]_.
 
 Il piano di gestione dei dati consente agli istituti di pianificare,
 documentare fin dall’inizio e successivamente monitorare la gestione dei
-dati di un progetto di digitalizzazione, verificando poi passo dopo
-passo il rispetto di quanto è stato deciso.
+dati di un progetto di digitalizzazione, verificando poi, passo dopo passo, il rispetto di quanto è stato deciso.
 
 Il DMP, dunque, aiuta a mettere a fuoco tutte le azioni che devono
 essere intraprese da chi avvia un progetto di digitalizzazione o di
@@ -80,7 +79,7 @@ Concludendo, il DMP è uno strumento:
    attori che prendono parte al processo di produzione e gestione dei
    dati.
 
-.. [1] Il dato va prodotto una sola volta, deve essere conservato in
+.. [2] Il dato va prodotto una sola volta, deve essere conservato in
    un'unica posizione, ne va garantita la qualità e l’aggiornamento e
    tutti gli uffici del MiC lo utilizzano. Questo è particolarmente
    utile nella gestione delle cosiddette anagrafiche degli istituti

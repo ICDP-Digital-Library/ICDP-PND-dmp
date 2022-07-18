@@ -5,7 +5,7 @@ La prima sezione della scheda progetto contiene le informazioni generali
 e amministrative relative al progetto, che devono essere definite e rese
 accessibili per garantire la corretta gestione della banca dati.
 Definisce inoltre la *data governance* del progetto, attribuendo in modo
-chiaro le responsabilità sulla base delle Linee guida AgID [1]_.
+chiaro le responsabilità sulla base delle Linee guida AgID [6]_.
 
 In alcuni casi, specie negli istituti più piccoli, è possibile che a una
 stessa persona vengano attribuite responsabilità multiple.
@@ -46,19 +46,15 @@ come segue:
 -  **Responsible (R):** coloro che lavorano per eseguire un determinato
    compito. Esiste almeno un ruolo di responsabile.
 
--  **Accountable (A):** il solo che può approvare il corretto
-   completamento di un compito e che delega il lavoro ai responsabili.
+-  **Accountable (A):** il solo che può approvare il corretto completamento di un compito e che delega il lavoro ai responsabili.
    Può esistere un solo ruolo *accountable* per uno specifico compito.
 
--  **Consulted (C):** coloro che possono essere consultati in quanto
-   esperti di dominio e con i quali instaurare una comunicazione
+-  **Consulted (C):** coloro che possono essere consultati in quanto esperti di dominio e con i quali instaurare una comunicazione
    bidirezionale.
 
--  **Informed (I):** coloro che devono essere tenuti aggiornati sui
-   progressi del processo, spesso al termine dello stesso.
+-  **Informed (I):** coloro che devono essere tenuti aggiornati sui progressi del processo, spesso al termine dello stesso.
 
-La Tabella 1 riporta un esempio di possibile matrice RACI. In generale,
-le responsabilità assegnate varieranno a seconda delle specificità del
+La Tabella 1 riporta un esempio di possibile matrice RACI. In generale, le responsabilità assegnate varieranno a seconda delle specificità del
 progetto.
 
 |image0|
@@ -67,10 +63,8 @@ progetto.
 
 .. _section-1:
 
-.. [1] Linee guida nazionali per la valorizzazione del patrimonio
-   informativo pubblico, “Aspetti organizzativi e qualità dei dati”.
-   Agenzia per l’Italia Digitale. 2017.
-   https://docs.italia.it/italia/daf/lg-patrimonio-pubblico/it/stabile/aspettiorg.html
+.. [6] Linee guida nazionali per la valorizzazione del patrimonio informativo pubblico, “Aspetti organizzativi e qualità dei dati”.
+   Agenzia per l’Italia Digitale. 2017. https://docs.italia.it/italia/daf/lg-patrimonio-pubblico/it/stabile/aspettiorg.html
 
 .. |image0| image:: ../media/image2.jpeg
    :width: 5.375in

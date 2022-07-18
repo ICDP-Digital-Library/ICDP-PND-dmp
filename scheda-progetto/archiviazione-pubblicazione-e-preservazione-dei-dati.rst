@@ -16,15 +16,15 @@ si occupa dei servizi di *housing* e *hosting* della maggior parte dei
 sistemi informativi, dei siti e dei portali del MiC. In coerenza con la
 Strategia per la crescita digitale del Paese e il `Piano Triennale per
 l’informatica nella
-PA <https://docs.italia.it/italia/piano-triennale-ict/pianotriennale-ict-doc/it/2020-2022/index.html>`__ [1]_,
-AGID ha delineato una strategia *Cloud* [2]_ che prevede un percorso
+PA <https://docs.italia.it/italia/piano-triennale-ict/pianotriennale-ict-doc/it/2020-2022/index.html>`__ [17]_,
+AGID ha delineato una strategia *Cloud* [18]_ che prevede un percorso
 di qualificazione per i soggetti pubblici e privati che intendono
 fornire servizi *cloud* alla Pubblica amministrazione, affinché queste
 ultime possano adottare servizi e infrastrutture di cloud computing
 omogenei, che rispettino elevati standard di sicurezza, efficienza e
 affidabilità. Inoltre, più recentemente, il Dipartimento per la
 trasformazione digitale con l’Agenzia per la cybersicurezza nazionale ha
-elaborato la Strategia Cloud Italia [3]_ contenente gli indirizzi
+elaborato la Strategia Cloud Italia [19]_ contenente gli indirizzi
 strategici per il percorso di migrazione verso il cloud di dati e
 servizi digitali della Pubblica Amministrazione.
 
@@ -87,7 +87,7 @@ Se l’istituto ha - o prevede di realizzare - un’interfaccia utente di
 fruizione delle informazioni (portale o sito web), in questa sezione è
 importante indicare dove e come verranno pubblicati i dati e descrivere
 in che modo è garantito il rispetto delle raccomandazioni AgID per la
-pubblicazione dei dati [4]_; nella pubblicazione occorrerà in
+pubblicazione dei dati [20]_; nella pubblicazione occorrerà in
 particolare prestare attenzione ai seguenti aspetti:
 
 -  assegnare ai dataset nomi auto-esplicativi e fornire descrizioni
@@ -117,7 +117,7 @@ Pertanto, in questa sezione del DMP occorre indicare:
 
 -  se l’interfaccia utente rispetta o meno i requisiti di usabilità
    previsti nel Piano quinquennale per l’informatica nella Pubblica
-   Amministrazione [5]_
+   Amministrazione [21]_
 
 -  se è prevista o meno la pubblicazione nel portale nazionale
    https://dati.cultura.gov.it (cfr. par. :ref:`open_data`), di quali dati e con
@@ -143,7 +143,7 @@ di gestione, nel DMP va inoltre indicato:
 
 -  in caso di utilizzo dell’infrastruttura software del patrimonio
    culturale gestita dall’ICDP, qual è il modello di interazione
-   adottato (modello integrato/modello federato [6]_).
+   adottato (modello integrato/modello federato [22]_).
 
 Preservazione dei dati ⓘ
 ------------------------
@@ -151,7 +151,7 @@ Preservazione dei dati ⓘ
 Nella gestione di un dataset, è fondamentale garantire la conservazione
 a lungo termine del dataset stesso. Il termine “*digital
 preservation*” indica le strategie e i metodi adottati per garantire
-la conservazione del dato nel corso del tempo [7]_.
+la conservazione del dato nel corso del tempo [23]_.
 
 Sia i formati utilizzati per i dati e i metadati, sia i supporti sui
 quali il dataset risiede, sono soggetti a obsolescenza, pertanto è molto
@@ -218,17 +218,17 @@ essere segnalate:
 
 -  chi ha la responsabilità di gestire la certificazione.
 
-.. [1] https://www.agid.gov.it/it/agenzia/piano-triennale
+.. [17] Cfr. https://www.agid.gov.it/it/agenzia/piano-triennale
 
-.. [2] https://www.agid.gov.it/it/infrastrutture/cloud-pa
+.. [18] Cfr. https://www.agid.gov.it/it/infrastrutture/cloud-pa
 
-.. [3] https://innovazione.gov.it/dipartimento/focus/strategia-cloud-italia/
+.. [19] Cfr. https://innovazione.gov.it/dipartimento/focus/strategia-cloud-italia/
 
-.. [4] https://docs.italia.it/italia/daf/lg-patrimonio-pubblico/it/stabile/publdatigov.html
+.. [20] Cfr. https://docs.italia.it/italia/daf/lg-patrimonio-pubblico/it/stabile/publdatigov.html
 
-.. [5] https://www.agid.gov.it/it/design-servizi/usabilita
+.. [21] Cfr. https://www.agid.gov.it/it/design-servizi/usabilita
 
-.. [6] I due principali modi per relazionarsi con l’infrastruttura software
+.. [22] I due principali modi per relazionarsi con l’infrastruttura software
    del patrimonio culturale sono: a) *modello integrato*: gli enti
    conferiscono i propri dati all’infrastruttura, condividendone i
    servizi: le risorse digitali sono quindi “ospitate”
@@ -243,7 +243,7 @@ essere segnalate:
    nell’infrastruttura, mentre il ciclo di vita dei dati è gestito
    dall’ente nei propri sistemi.
 
-.. [7] Lee, K. H., Slattery, O., Lu, R., Tang, X., & McCrary, V. (2002).
+.. [23] Lee, K. H., Slattery, O., Lu, R., Tang, X., & McCrary, V. (2002).
    The state of the art and practice in digital preservation. *Journal
    of research of the National institute of standards and technology*,
    *107* (1), 93.

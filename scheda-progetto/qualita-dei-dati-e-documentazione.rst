@@ -106,4 +106,4 @@ presenti nel codice oggetto (es. SBN). In caso di metodologie di
 nomenclatura multiple, sarà opportuno riportare queste informazioni per
 ogni specifica metodologia adottata.
 
-.. [1] https://docs.italia.it/italia/daf/lg-patrimonio-pubblico/it/stabile/aspettiorg.html#qualita-dei-dati
+.. [9] Cfr. https://docs.italia.it/italia/daf/lg-patrimonio-pubblico/it/stabile/aspettiorg.html#qualita-dei-dati

@@ -3,7 +3,7 @@ Sicurezza dei dati
 
 La digitalizzazione dei dati semplifica l’accesso e la condivisione
 degli stessi, ma introduce anche una serie di rischi legati alla
-sicurezza informatica (o *cybersecurity*). [1]_ È infatti possibile che
+sicurezza informatica (o *cybersecurity*). [24]_ È infatti possibile che
 i dati condivisi in rete, se non adeguatamente protetti, subiscano
 furti, compromissioni o alterazioni da parte di soggetti
 malintenzionati.
@@ -12,7 +12,7 @@ L’Agenzia per l’Italia Digitale ha previsto una serie di misure atte a
 evitare possibili accessi non autorizzati o violazioni dei privilegi di
 accesso, valutando periodicamente le possibili vulnerabilità che
 potrebbero condurre a violazioni della sicurezza dei dati. In
-particolare, sono previsti tre diversi livelli di attuazione [2]_:
+particolare, sono previsti tre diversi livelli di attuazione [25]_:
 
 -  minimo: è quello al quale ogni Pubblica Amministrazione,
    indipendentemente dalla sua natura e dimensione, deve necessariamente
@@ -31,7 +31,7 @@ particolare, sono previsti tre diversi livelli di attuazione [2]_:
 Il MiC consiglia l’adozione delle misure di sicurezza standard, ma è in
 ogni caso indispensabile raggiungere almeno il livello minimo. Un
 approfondimento sul tema è fornito dalle misure di sicurezza ICT per le
-pubbliche amministrazioni indicate dall’AgID. [3]_
+pubbliche amministrazioni indicate dall’AgID. [26]_
 
 Disposizioni per la sicurezza dei dati ⓘ
 ----------------------------------------
@@ -62,9 +62,9 @@ Standard per la sicurezza dei dati ⓘ
 Per garantire la sicurezza dei dati, è opportuno adottare criteri
 standard di valutazione della sicurezza. Il MiC consiglia di adottare lo
 standard ABSC (AgID Basic Security Controls) definito dall’Agenzia per
-l’Italia digitale [4]_, che è compatibile con il framework FNSC
-(Framework Nazionale di Sicurezza Cibernetica [5]_) e con lo standard
-internazionale CCSC (CIS Critical Security Controls [6]_). Lo standard
+l’Italia digitale [27]_, che è compatibile con il framework FNSC
+(Framework Nazionale di Sicurezza Cibernetica [28]_) e con lo standard
+internazionale CCSC (CIS Critical Security Controls [29]_). Lo standard
 ABSC prevede la creazione di un inventario dei dispositivi autorizzati e
 non autorizzati, l’adozione di standard per la protezione dei
 dispositivi, una valutazione continua delle vulnerabilità per far fronte
@@ -144,19 +144,19 @@ In questa sezione del DMP occorre quindi indicare:
 -  se è stata eseguita una anonimizzazione o pseudonimizzazione dei
    dati, e se sì di quali dati e con quali modalità.
 
-.. [1] Jang-Jaccard, J., & Nepal, S. (2014). A survey of emerging threats
+.. [24] Jang-Jaccard, J., & Nepal, S. (2014). A survey of emerging threats
    in cybersecurity. *Journal of Computer and System Sciences*, 80(5),
    973-993.
 
-.. [2] https://www.agid.gov.it/it/sicurezza/misure-minime-sicurezza-ict
+.. [25] Cfr. https://www.agid.gov.it/it/sicurezza/misure-minime-sicurezza-ict
 
-.. [3] Agenzia per l’Italia Digitale (2016), *Misure minime di sicurezza
+.. [26] Agenzia per l’Italia Digitale (2016), *Misure minime di sicurezza
    ICT per le pubbliche amministrazioni*
    (https://www.agid.gov.it/sites/default/files/repository_files/documentazione/misure_minime_di_sicurezza_v.1.0.pdf)
 
-.. [4] Questo standard è descritto nelle *Misure minime di sicurezza ICT
+.. [27] Questo standard è descritto nelle *Misure minime di sicurezza ICT
    per le pubbliche amministrazioni* citate in precedenza.
 
-.. [5] https://www.cybersecurityframework.it
+.. [28] Cfr. https://www.cybersecurityframework.it
 
-.. [6] https://www.cisecurity.org/controls
+.. [29] Cfr. https://www.cisecurity.org/controls
