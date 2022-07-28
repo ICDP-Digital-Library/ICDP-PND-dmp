@@ -1,7 +1,7 @@
 .. _data_governance_interna:
 
 *Data governance* interna
-=======================
+=========================
 
 Per una corretta redazione del DMP, è necessario che ogni Istituto della
 cultura definisca una chiara *data governance* interna, con

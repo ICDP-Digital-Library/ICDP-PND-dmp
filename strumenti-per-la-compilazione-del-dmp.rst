@@ -10,4 +10,4 @@ I due documenti possono essere consultati e scaricati al link: https://github.co
 
 In una fase successiva, per favorire la compilazione, la raccolta e la conservazione dei DMP, verrà messo a disposizione uno strumento semi-automatico per rendere l'utilizzo dei Piani di gestione dei dati un metodo sistematico per presentare e accompagnare i progetti di digitalizzazione.
 
-.. [30] 30 Zeri e LODe: https://fondazionezeri.unibo.it/it/fototeca/attivita/zeri-e-lode
+.. [30] Zeri e LODe: https://fondazionezeri.unibo.it/it/fototeca/attivita/zeri-e-lode

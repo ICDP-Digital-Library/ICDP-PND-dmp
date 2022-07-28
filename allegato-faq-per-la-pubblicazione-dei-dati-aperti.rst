@@ -377,6 +377,8 @@ aspetto, a cui rispondere con Sì o No.
 |                       | riconducibile ad una  |                       |
 |                       | persona fisica?       |                       |
 +-----------------------+-----------------------+-----------------------+
+
+
 +-----------------------+-----------------------+-----------------------+
 | **Proprietà           | Il dataset è stato    |                       |
 | intellettuale della   | creato da uno o più   |                       |

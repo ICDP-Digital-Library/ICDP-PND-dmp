@@ -32,7 +32,7 @@ quattro: accuratezza, coerenza, completezza e attualità. La
 Determinazione Commissariale dell’Agenzia per l’Italia Digitale n.
 68/2013 riporta una tabella con un insieme esemplificativo di misure,
 con riferimento allo standard ISO, a supporto delle attività di
-valutazione della qualità dei dati delle amministrazioni [1]_. Nel DMP è
+valutazione della qualità dei dati delle amministrazioni [9]_. Nel DMP è
 opportuno descrivere le modalità di analisi della qualità dei dati
 adottate nel progetto, e, in particolare, quale standard è stato
 adottato per valutare la qualità dei dati; quali misure di qualità dei
