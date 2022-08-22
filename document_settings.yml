@@ -1,8 +1,7 @@
 document:
   name: Linee guida per la redazione del piano di gestione dei dati (Data Management Plan)
   description: |
-      Il PND costituisce la visione strategica con la quale il Ministero della Cultura intende promuovere e organizzare il processo di trasformazione digitale nel quinquennio 2022-2026.
-      Il piano si rivolge ai musei, agli archivi, alle biblioteche, agli istituti centrali e ai luoghi della cultura statali che conservano, gestiscono e valorizzano i beni culturali.
+      Le Linee guida 2 hanno l’obiettivo di definire il percorso per realizzare piani di gestione dei dati (Data Management Plan) che descrivono e analizzano come archiviare, condividere e conservare i dati provenienti dai progetti di digitalizzazione del patrimonio culturale e dalle banche date esistenti. Queste Linee guida vengono accompagnate da FAQ sugli Open Data che possono essere utilizzati da parte degli istituti di tutela per strutturare la pubblicazione di dati aperti. 
   tags:
       - patrimonio culturale digitale
       - digitalizzazione
