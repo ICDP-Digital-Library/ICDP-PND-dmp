@@ -26,7 +26,7 @@ vengono raccolti/prodotti all’origine, chi è responsabile della raccolta
 o della produzione, se la raccolta/produzione avviene in maniera
 automatica o manuale.
 
-.. _"Il progetto di digitalizzazione, Come": https://docs.italia.it/italia/icdp/icdp-pnd-digitalizzazione-docs/it/giugno-2022/il-progetto-di-digitalizzazione/come.html
+.. _"Il progetto di digitalizzazione, Come": https://docs.italia.it/italia/icdp/icdp-pnd-digitalizzazione-docs/it/v1.0-giugno-2022/il-progetto-di-digitalizzazione/come.html
 
 .. _Linee guida per la digitalizzazione del patrimonio culturale: https://docs.italia.it/italia/icdp/icdp-pnd-digitalizzazione-docs
 
@@ -41,7 +41,7 @@ guida per l’acquisizione, la circolazione e il riuso delle riproduzioni dei be
 
 Tipologie e formati di dati ⓘ
 -----------------------------
-.. _Formati: https://docs.italia.it/italia/icdp/icdp-pnd-digitalizzazione-docs/it/giugno-2022/formati.html
+.. _Formati: https://docs.italia.it/italia/icdp/icdp-pnd-digitalizzazione-docs/it/v1.0-giugno-2022/formati.html
 È opportuno che il DMP descriva tutte le tipologie di dati
 prodotti/raccolti nel progetto, e per ogni tipologia il formato in cui
 sono raccolti i dati, facendo riferimento al capitolo `Formati`_ delle *Linee
@@ -97,7 +97,7 @@ l’archivio dei file sorgenti.
 Quantità di dati prevista ⓘ
 ---------------------------
 
-.. _Infrastruttura nazionale dei dati del patrimonio culturale: https://docs.italia.it/italia/icdp/icdp-pnd-docs/it/giugno-2022/strategia/tecnologie_abilitanti.html#infrastruttura-nazionale-dei-dati-del-patrimonio-culturale
+.. _Infrastruttura nazionale dei dati del patrimonio culturale: https://docs.italia.it/italia/icdp/icdp-pnd-docs/it/v1.0-giugno-2022/strategia/tecnologie_abilitanti.html#infrastruttura-nazionale-dei-dati-del-patrimonio-culturale
 
 È importante stimare fin dall'inizio del progetto la quantità di dati
 che si prevede di raccogliere, o almeno il loro ordine di grandezza. In

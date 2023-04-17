@@ -10,7 +10,7 @@ valorizzazione [3]_.
 Come previsto nel PND, il Ministero della Cultura (MiC) ha **tre livelli
 di governance** nella gestione dei dati:
 
-.. _Infrastruttura nazionale dei dati del patrimonio culturale: https://docs.italia.it/italia/icdp/icdp-pnd-docs/it/giugno-2022/strategia/tecnologie_abilitanti.html#infrastruttura-nazionale-dei-dati-del-patrimonio-culturale
+.. _Infrastruttura nazionale dei dati del patrimonio culturale: https://docs.italia.it/italia/icdp/icdp-pnd-docs/it/v1.0-giugno-2022/strategia/tecnologie_abilitanti.html#infrastruttura-nazionale-dei-dati-del-patrimonio-culturale
 
 -  **Direzioni generali**: l’Istituto centrale per la digitalizzazione
    del patrimonio culturale (di seguito ICDP o Digital Library), in
@@ -64,7 +64,7 @@ avvierà una fase di sperimentazione alla fine della quale il modello
 potrà essere implementato in un *web tool* che verrà messo a
 disposizione degli Istituti.
 
-.. _Digitalizzazione e ciclo di vita della risorsa digitale: https://docs.italia.it/italia/icdp/icdp-pnd-docs/it/giugno-2022/strategia/processi.html#digitalizzazione-e-ciclo-di-vita-della-risorsa-digitale
+.. _Digitalizzazione e ciclo di vita della risorsa digitale: https://docs.italia.it/italia/icdp/icdp-pnd-docs/it/v1.0-giugno-2022/strategia/processi.html#digitalizzazione-e-ciclo-di-vita-della-risorsa-digitale
 
 .. [3] Cfr. par. `Digitalizzazione e ciclo di vita della risorsa digitale`_ del Piano nazionale di digitalizzazione.
 

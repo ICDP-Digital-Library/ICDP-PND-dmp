@@ -28,7 +28,7 @@ elaborato la Strategia Cloud Italia [19]_ contenente gli indirizzi
 strategici per il percorso di migrazione verso il cloud di dati e
 servizi digitali della Pubblica Amministrazione.
 
-.. _Infrastruttura nazionale dei dati del patrimonio culturale: https://docs.italia.it/italia/icdp/icdp-pnd-docs/it/giugno-2022/strategia/tecnologie_abilitanti.html#infrastruttura-nazionale-dei-dati-del-patrimonio-culturale
+.. _Infrastruttura nazionale dei dati del patrimonio culturale: https://docs.italia.it/italia/icdp/icdp-pnd-docs/it/v1.0-giugno-2022/strategia/tecnologie_abilitanti.html#infrastruttura-nazionale-dei-dati-del-patrimonio-culturale
 
 Coerentemente con questi orientamenti, per garantire l’archiviazione e
 la preservazione nel tempo dei dati del patrimonio culturale, il

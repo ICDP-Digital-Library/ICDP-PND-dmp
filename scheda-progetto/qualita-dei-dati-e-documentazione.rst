@@ -81,7 +81,7 @@ riportate per ogni specifica tipologia.
 
 Nomenclatura degli oggetti digitali ⓘ ⓒ
 ---------------------------------------
-.. _Nomenclatura degli oggetti digitali: https://docs.italia.it/italia/icdp/icdp-pnd-digitalizzazione-docs/it/giugno-2022/nomenclatura-degli-oggetti-digitali.html
+.. _Nomenclatura degli oggetti digitali: https://docs.italia.it/italia/icdp/icdp-pnd-digitalizzazione-docs/it/v1.0-giugno-2022/nomenclatura-degli-oggetti-digitali.html
 
 .. _Linee guida per la digitalizzazione del patrimonio culturale: https://docs.italia.it/italia/icdp/icdp-pnd-digitalizzazione-docs
 

@@ -62,7 +62,7 @@ Nel DMP è importante descrivere in che modo vengono assegnati questi
 identificatori, come vengono costruiti e qual è il nome di dominio di
 riferimento.
 
-.. _Infrastruttura nazionale dei dati del patrimonio culturale: https://docs.italia.it/italia/icdp/icdp-pnd-docs/it/giugno-2022/strategia/tecnologie_abilitanti.html#infrastruttura-nazionale-dei-dati-del-patrimonio-culturale
+.. _Infrastruttura nazionale dei dati del patrimonio culturale: https://docs.italia.it/italia/icdp/icdp-pnd-docs/it/v1.0-giugno-2022/strategia/tecnologie_abilitanti.html#infrastruttura-nazionale-dei-dati-del-patrimonio-culturale
 
 Nel caso che il sistema locale adotti un modello “integrato” con
 l’infrastruttura dati nazionale (cfr. par. :ref:`pubblicazione_dei_dati` del presente documento
